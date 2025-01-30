@@ -9,3 +9,59 @@ parameters we need
         "classification": "Summer 2020",
         "attendance": "2.0",
         "audience": "Children",
+
+
+
+Pagination: 
+
+params = {
+    '$limit': 50000,  # Max limit per request
+}
+
+# Function to fetch all data with pagination
+def fetch_all_data():
+    all_data = []  # List to store all records
+    offset = 0  # Starting point (offset)
+
+    while True:
+        # Add the current offset to the parameters
+        params['$offset'] = offset
+
+        # Send the request to the API
+        response = requests.get(url, params=params)
+
+        if response.status_code == 200:
+            data = response.json()
+
+            # If there is no data in the response, stop the loop
+            if not data:
+                break
+
+            # Append the data to the all_data list
+            all_data.extend(data)
+
+            # Print progress (optional, for debugging)
+            print(f"Fetched {len(data)} records, Total: {len(all_data)}")
+
+            # Increase the offset by the limit for the next page
+            offset += 50000
+        else:
+            print(f"Error fetching data: {response.status_code}")
+            break
+
+    return all_data
+
+# Fetch all data with pagination
+all_data = fetch_all_data()
+
+# Convert the data into a pandas DataFrame
+df = pd.DataFrame(all_data)
+
+# Save the data into a CSV file
+df.to_csv('nyc_data_all.csv', index=False)
+
+print(f"All data saved to nyc_data_all.csv with {len(df)} records.")
+
+
+#Convert Json file with out metadata to CSV, 
+df.to_csv('csv/city_events.csv', index = False) 
