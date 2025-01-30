@@ -1,0 +1,1001 @@
+unit,group_name_partner,date_and_time,borough,locationtype,location,event_name,event_type,category,attendance,audience,source,classification
+Urban Park Rangers,Urban Park Rangers,2019-10-12T11:00:00.000,Queens,Adventure Course,Alley Pond Adventure Course,PEP Family and Friends,Agency Produced Event,Nature,75.0,Children;#Young Adult;#Adults;#Teens;#Tot,Sharepoint,
+Urban Park Rangers,Greenbelt Conservancy,2019-11-20T18:00:00.000,Staten Island,Nature Center,Greenbelt Nature Center,Family Science Night,Local Event,Nature,30.0,General Public,Sharepoint,
+Urban Park Rangers,Greenbelt Nature Center,2019-12-19T18:00:00.000,Staten Island,Nature Center,Greenbelt Nature Center,Family science night,Community Based Event,Academic/Out of School time,9.0,Children;#Adults;#Teens,Sharepoint,
+Urban Park Rangers,Greenbelt,2020-01-15T18:00:00.000,Staten Island,Nature Center,Greenbelt Nature Center,Family Science Night,Agency Produced Event,Academic/Out of School time,30.0,Children;#Adults;#Teens,Sharepoint,
+Urban Park Rangers,Greenbelt Nature Center,2020-01-19T11:00:00.000,Staten Island,Nature Center,Greenbelt Nature Center,Winter Wilderness Skills,Local Event,Nature,62.0,Children;#Young Adult;#Adults;#Teens,Sharepoint,
+Urban Park Rangers,Greenbelt Conservancy,2020-02-19T18:00:00.000,Staten Island,Nature Center,Greenbelt Nature Center,Family Science Night,Community Based Event,Academic/Out of School time,30.0,Children;#Young Adult;#Teens;#Adults;#General Public,Sharepoint,
+Urban Park Rangers,Mappy Hour NYC,2020-08-19T19:00:00.000,Manhattan,Park,Payson Park House,Virtual Mappy Hour with Ranger Dan,Community Based Event,Nature,47.0,Adults;#Young Adult;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-08-25T11:00:00.000,Manhattan,Park,Payson Park House,Belvedere (the Tortoise) on the Rocks!,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-09-16T14:00:00.000,Staten Island,Nature Center,Greenbelt Nature Center,Hiking is a Walk in the Park,Community Based Event,Nature,3.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-09-28T10:30:00.000,Manhattan,Nature Center,Inwood Hill Nature Center,Wigwam & Garden Open House,Community Based Event,Nature,2.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-08-29T19:30:00.000,Bronx,Nature Center,Van Cortlandt Nature Center,Movies Under The Star's: A Wrinkle In Time,Community Based Event,Family Festival,21.0,General Public,Sharepoint,Lecture/Panel/Talk
+Urban Park Rangers,Fort Greene Conservancy,2019-04-13T11:00:00.000,Brooklyn,Nature Center,Fort Greene Visitor Center,Fort Greene Easter Egg Hunt,Local Event,Family Festival,383.0,Adults,Sharepoint,Play
+Urban Park Rangers,National Parks Service,2019-04-20T10:00:00.000,Queens,Nature Center,Jamaica Bay Wildlife Refuge,Junior Ranger Day,Agency Produced Event,Family Festival,31.0,Children,Sharepoint,Play
+Recreation,"Councilman Justin Branan, Sound Off",2019-06-14T19:00:00.000,Brooklyn,Other,American Veterans Memorial Pier,Silent Disco,Community Based Event,Arts/Culture,600.0,General Public,Sharepoint,Music
+Recreation,,2018-06-15T20:30:00.000,Staten Island,Other,Midland Field,Movies Under the Stars: Transformers: The Last Knight,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,Movies
+Recreation,"Sound Off, Councilman Justin Branan",2019-06-29T19:00:00.000,Brooklyn,Other,American Veterans Memorial Pier,Silent Disco,Community Based Event,Arts/Culture,650.0,General Public,Sharepoint,Music
+Recreation,,2018-06-22T20:30:00.000,Queens,Other,Rory Staunton Field,"MUTS "" Paddington """,Community Based Event,Mobile Unit,119.0,General Public,Sharepoint,Movies
+Urban Park Rangers,Wildlife NYC,2019-07-06T12:00:00.000,Queens,Other,Rockaway Beach and Boardwalk,Plover Day,Agency Produced Event,Nature,73.0,General Public,Sharepoint,
+Recreation,NYPD,2019-07-12T11:00:00.000,Queens,Other,167-02 Baisley Blvd/Bedell Street,Cops and Kids Day,Community Based Event,Mobile Unit,160.0,General Public,Sharepoint,Play
+Urban Park Rangers,Green Thumb,2019-07-20T10:00:00.000,Brooklyn,Other,Herbal Garden of East New York,Opening Garden Day,Community Based Event,Nature,0.0,General Public,Sharepoint,
+Recreation,Rockaway Administator,2019-07-14T20:45:00.000,Queens,Other,Beach 94 Plaza,Mary Poppins Returns,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-27T08:00:00.000,Staten Island,Other,Franklin D. Roosevelt Boardwalk and Beach,Beach Soccer Tournament,Tournament/Competition,Sport,1000.0,General Public,Sharepoint,Tier 2
+Recreation,,2019-07-28T08:00:00.000,Staten Island,Other,Franklin D. Roosevelt Boardwalk and Beach,Beach Soccer Tournament,Tournament/Competition,Sport,1000.0,General Public,Sharepoint,Tier 2
+Recreation,,2019-07-28T10:00:00.000,Staten Island,Other,Franklin D. Roosevelt Boardwalk and Beach,Food Truck Festival,Community Based Event,Family Festival,200.0,General Public,Sharepoint,
+Recreation,,2019-07-27T10:00:00.000,Staten Island,Other,Franklin D. Roosevelt Boardwalk and Beach,Food Truck Festival,Community Based Event,Family Festival,200.0,General Public,Sharepoint,
+Recreation,,2019-06-14T10:30:00.000,Manhattan,Other,123rd St. & Morningside Ave.,Play Mobile,Community Based Event,Mobile Unit,150.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2019-05-26T11:00:00.000,Bronx,Other,Castle Hill YMCA,Hispanic Grand Council Picnic,Local Event,Mobile Unit,10.0,General Public,Sharepoint,Play
+Recreation,Harlem Mothers S.A.V.E,2019-07-24T10:00:00.000,Manhattan,Playground,Fred Samuel Playground,Annual 128th Street Play Street,Community Based Event,Mobile Unit,30.0,Children,Sharepoint,Play
+Recreation,Harlem One Stop,2019-06-23T12:00:00.000,Manhattan,Other,139th St. & Amsterdam Ave.,Play Mobile,Community Based Event,Mobile Unit,600.0,Tot;#Children;#Adults,Sharepoint,Play
+Recreation,NYPD,2019-06-22T12:00:00.000,Manhattan,Other,W. 126th St. & 1st Ave.,Play Mobile,Community Based Event,Mobile Unit,500.0,Teens;#Children;#Tot,Sharepoint,Play
+Recreation,Harlem One Stop,2019-07-27T12:00:00.000,Manhattan,Other,139th and Amsterdam Avenue,Hamiton Heights Weekend Walks,Community Based Event,Mobile Unit,200.0,Children,Sharepoint,Play
+Recreation,NYPD,2019-06-15T11:00:00.000,Manhattan,Other,130 Avenue C bet. 9th & 10th Ave.,Play Mobile,Community Based Event,Mobile Unit,400.0,Children;#Tot;#Teens,Sharepoint,Play
+Recreation,Village Alliance District Management Association,2019-06-08T12:00:00.000,Manhattan,Other,W. 8th St. & 6th Ave.,Play Mobile,Community Based Event,Mobile Unit,500.0,Children;#Tot;#Teens,Sharepoint,Play
+Recreation,The Points Team Youth Program,2019-06-09T10:00:00.000,Manhattan,School,Harriet Tubman School Yard,Play Mobile,Community Based Event,Mobile Unit,50.0,Teens;#Children;#Tot,Sharepoint,Play
+Recreation,,2019-06-29T11:00:00.000,Bronx,Other,4750 White Plains Road,Street Fair Extravaganza,Local Event,Mobile Unit,30.0,General Public,Sharepoint,Play
+Recreation,,2019-06-27T13:00:00.000,Bronx,Other,Edenwald Community Center,Fatherhood Resource Day,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,Play
+Recreation,,2019-07-20T12:00:00.000,Bronx,Other,160th Street betwn Melrose and Elton Aves.,We Are Melrose,Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,Play
+Recreation,,2019-07-06T12:00:00.000,Bronx,Other,1317 Fulton Avenue Bronx New York,Bringing the Peace,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,Play
+Recreation,,2019-07-27T11:30:00.000,Bronx,Other,771 Fairmount Place,Outreach Day and Health and Wellness Fair,Community Based Event,Mobile Unit,35.0,General Public,Sharepoint,Play
+Recreation,,2018-03-16T00:00:00.000,Staten Island,Other,P.S 18,She's On Point,Community Based Event,Fitness,55.0,Children;#Teens,Sharepoint,
+Recreation,,2019-08-02T13:00:00.000,Bronx,Other,535 East 141st Street,Dream Big Bronx Youth Fair,Community Based Event,Mobile Unit,300.0,Tot;#Children;#Young Adult,Sharepoint,Play
+Recreation,,2019-08-03T12:00:00.000,Bronx,Other,Aqueduct Walk,Commissioner's Programming,Agency Produced Event,Mobile Unit,20.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,Harlem Mothers S.A.V.E,2019-07-31T14:00:00.000,Manhattan,Other,306A West 2128th Street,Annual 128th Street Play Street,Community Based Event,Mobile Unit,3.0,Children,Sharepoint,Play
+Recreation,Council Member Diana Ayala,2019-07-30T13:00:00.000,Manhattan,Other,106th Street Bet. 3rd Avenue and Lexington Avenue,East Harlem Youth Fair,Community Based Event,Mobile Unit,500.0,Children,Sharepoint,Play
+Recreation,NYPD,2019-08-07T16:00:00.000,Queens,Other,Forest Hills Jewish Center,NYPD Night out,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Play
+Recreation,,2019-07-19T00:00:00.000,Brooklyn,Other,Red Hook Recreation Area,Spider-Man: Into the Spider-Verse(2018),Community Based Event,Mobile Unit,123.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-07T11:00:00.000,Queens,Other,Queens Hospital Center,Family Fun Day,Community Based Event,Mobile Unit,54.0,General Public,Sharepoint,Play
+Recreation,,2019-08-06T14:30:00.000,Bronx,Other,"Brook Avenue, between 137th St & 138th St",National Night Out,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Play
+Recreation,,2019-08-08T10:00:00.000,Bronx,Other,200 West Tremont Avenue,Fitness Challenge,Community Based Event,Mobile Unit,20.0,Seniors,Sharepoint,Play
+Recreation,Diversity Unity,2019-08-10T11:00:00.000,Queens,Other,14590 179th Street,Block Party,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Play
+Recreation,Rockaway Administrator,2019-08-11T20:30:00.000,Queens,Other,Beach 94th St,Aquaman,Community Based Event,Mobile Unit,175.0,General Public,Sharepoint,M.U.T.S
+Recreation,SQPA,2019-08-16T11:00:00.000,Queens,Other,108-35 167th street,Last Day of Summer Camp Festival,Agency Produced Event,Mobile Unit,48.0,Children,Sharepoint,Play
+Recreation,,2019-08-17T11:00:00.000,Queens,Other,147th Rd between 257th street and Weller Lane,Meet Your Neighbor Annual Block Party,Community Based Event,Mobile Unit,52.0,General Public,Sharepoint,Play
+Recreation,,2019-08-16T00:00:00.000,Brooklyn,Other,Red Hook Recreation Area,Uncle Drew(2018),Community Based Event,Mobile Unit,26.0,General Public,Sharepoint,M.U.T.S
+Recreation,19th Precinct Community Council,2019-08-06T05:30:00.000,Manhattan,Other,East End Ave. & 86th St.,Annual 19th Precinct National Night Out,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Play
+Recreation,,2019-08-16T12:00:00.000,Bronx,Other,Aqueduct Walk,Commissioner's Programming,Agency Produced Event,Mobile Unit,12.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,Play Mobile/Miriam Garay,2019-08-17T11:00:00.000,Brooklyn,Other,1769 East 49th Street,Matrix Youth Fair,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Play
+Recreation,Gospel Hall,2019-08-10T10:00:00.000,Manhattan,Other,27 West 115th Street,Health Fair and Back to School Supplies,Community Based Event,Mobile Unit,50.0,Teens;#Young Adult;#Children;#Tot,Sharepoint,Play
+Recreation,Harlem Mothers S.A.V.E,2019-08-14T13:00:00.000,Manhattan,Other,306A West 128th Street,Annual 128th Street Play Street,Community Based Event,Mobile Unit,50.0,Teens;#Young Adult;#Children,Sharepoint,Play
+Recreation,NYPD,2019-08-22T11:00:00.000,Queens,Other,153-90 Rockaway Boulevard,Block Party,Community Based Event,Mobile Unit,61.0,General Public,Sharepoint,Play
+Recreation,,2019-08-17T12:00:00.000,Bronx,Other,"East 172nd STreet, btwn Third & Bathgate Avenues",Back to School Celebration,Community Based Event,Mobile Unit,75.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2019-08-22T11:00:00.000,Bronx,Other,Julio Carballo Fields,Summer Camp BBQ,Agency Produced Event,Mobile Unit,350.0,Children;#Teens,Sharepoint,Play
+Recreation,Community League of the Heights,2019-08-21T10:00:00.000,Manhattan,Other,500 Weest 159th Street,CLOTH Health & Cultural Festival,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Play
+Recreation,Play Mobile,2019-08-24T00:00:00.000,Brooklyn,Other,"1003 Madison Street Brooklyn, NY",Stop the Violence,Community Based Event,Mobile Unit,92.0,General Public,Sharepoint,Play
+Recreation,Life Changers Churchand Ministries,2019-08-24T10:00:00.000,Manhattan,Park,100 Street Lexington & Park Avenue,Back To School,Community Based Event,Mobile Unit,55.0,Children;#Teens,Sharepoint,Play
+Recreation,,2018-06-01T20:00:00.000,Brooklyn,Pool,McCarren Pool Deck,Movies Under the Stars : Stonewall,Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,Movies
+Recreation,Play Mobile,2019-08-25T12:00:00.000,Brooklyn,Other,50 Belmont Avenue,Be on Belmont,Community Based Event,Mobile Unit,115.0,General Public,Sharepoint,Play
+Recreation,,2018-06-08T20:00:00.000,Brooklyn,Pool,McCarren Pool Deck,Movies Under the Stars : Saturday Church,Community Based Event,Mobile Unit,55.0,General Public,Sharepoint,Movies
+Recreation,CM Adabbo; Ozone Park Civic Association,2019-09-01T19:45:00.000,Queens,Other,Vito Locascio Field,Bohemian Rhapsody,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,CM Vallone; NEQ Admin; Northwest Bayside Civic Association,2019-08-30T19:45:00.000,Queens,Other,Bayside Fields,The Incredibles 2,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,M.U.T.S
+Recreation,Brooklyn Play Mobile,2019-08-30T14:00:00.000,Brooklyn,Other,1958 Fulton Street,2019 Back to School Festival Giveaway,Community Based Event,Mobile Unit,220.0,General Public,Sharepoint,Play
+Public Programs,Brooklyn Play Mobile,2019-08-29T11:00:00.000,Brooklyn,Other,2551 Linden Blvd,NYC ACS Keisha Baxter Back to School Community Event,Community Based Event,Mobile Unit,170.0,General Public,Sharepoint,Play
+Recreation,,2018-06-15T20:00:00.000,Brooklyn,Pool,McCarren Pool Deck,Movies Under the Stars : Pariah,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,Movies
+Recreation,,2019-09-04T20:00:00.000,Bronx,Other,Julio Carballo Fields,Avengers: Endgame,Community Based Event,Mobile Unit,65.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2019-08-23T16:00:00.000,Bronx,Other,Orchard Beach,Aqua Man,Agency Produced Event,Mobile Unit,75.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2019-08-23T20:30:00.000,Bronx,Other,Orchard Beach,Aqua Man,Community Based Event,Mobile Unit,500.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-03T20:00:00.000,Bronx,Other,Healy Field,A Wrinkle in Time,Community Based Event,Mobile Unit,20.0,Children;#Young Adult;#Adults;#Teens;#Adaptive;#Seniors;#General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-04T20:00:00.000,Bronx,Other,Julio Carballo Fields,Avengers: Endgame,Community Based Event,Mobile Unit,60.0,Children;#Young Adult;#Adults;#Teens;#Adaptive;#Seniors;#General Public,Sharepoint,M.U.T.S
+Recreation,Harlem One Stop,2019-09-08T10:00:00.000,Manhattan,Other,139th & 141st Street,Hamilton Heights Weekend Walks,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Play
+Recreation,Elaine D. Marius,2019-09-07T11:00:00.000,Manhattan,Other,139th-140th Street,Back to School - Back Pack Giveaway,Community Based Event,Mobile Unit,49.0,Children,Sharepoint,Play
+Recreation,Compassion Explosion,2019-09-14T11:00:00.000,Queens,Other,145-21 Liberty Ave,Block Party,Community Based Event,Mobile Unit,77.0,General Public,Sharepoint,Play
+Recreation,,2019-08-28T11:00:00.000,Brooklyn,Other,100 North Portland Avenue,,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,
+Recreation,,2019-08-23T12:00:00.000,Brooklyn,Other,386 Marlborough Road,End of Camp,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,
+Recreation,NYC Parks,2019-09-14T00:00:00.000,Manhattan,Other,W. 148th Street Bradhurst Avenue,Activities for the Kids,Agency Produced Event,Mobile Unit,19.0,Children,Sharepoint,Play
+Recreation,,2019-09-07T19:45:00.000,Queens,Other,Flushing Fields,Bumblebee,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-07T11:00:00.000,Bronx,Other,1377 Jerome Avenue,Family Fun Day,Community Based Event,Mobile Unit,100.0,Tot;#Children;#Young Adult;#Teens,Sharepoint,Play
+Recreation,,2019-09-07T15:00:00.000,Bronx,Other,2376 Watson Avenue,We Love Our Community,Community Based Event,Mobile Unit,20.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,Bayside Village BID,2019-09-22T12:00:00.000,Queens,Other,39th ave and Bell Blvd,Bell Blvd Sunday Stroll,Community Based Event,Mobile Unit,250.0,General Public,Sharepoint,Play
+Recreation,NYC Parks,2019-09-21T10:00:00.000,Manhattan,Other,Madison Square Garden Hotel Pennsylvania,Consulate of Columbia,Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,Play
+Recreation,Uptown Grand Central Org,2019-09-22T00:00:00.000,Manhattan,Other,125th To 118th Street,Party On Park,Community Based Event,Mobile Unit,55.0,General Public,Sharepoint,Play
+Recreation,Brooklyn Play Mobile,2019-10-01T12:00:00.000,Brooklyn,Other,484 Knickerbocker Street,Community Day,Community Based Event,Mobile Unit,71.0,General Public,Sharepoint,Play
+Urban Park Rangers,ADAPT,2019-10-06T12:30:00.000,Staten Island,Other,Inspiration Plaza,Harvest Fest,Community Based Event,Family Festival,75.0,General Public,Sharepoint,
+Recreation,,2019-10-18T19:00:00.000,Bronx,Other,Healy Field,Halloween: Face Your Fate,Community Based Event,Mobile Unit,45.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Urban Park Rangers,New York City Area Educators,2019-10-25T16:00:00.000,Manhattan,Other,American Museum of Natural History,T. Rex The Untimate Predator Educators Evening,Local Event,Academic/Out of School time,400.0,Adults;#Young Adult,Sharepoint,
+Urban Park Rangers,Myrtle Ave BID,2019-10-26T12:00:00.000,Queens,Other,Seneca Avenue and Corneila Street,6th Annual Ridgewood Stroll,Community Based Event,Family Festival,400.0,General Public,Sharepoint,
+Recreation,NYC Parks and Recreation,2019-09-21T09:00:00.000,Queens,Other,Beach 82nd Street,Rockaway Classic Basketball Tournament,Community Based Event,Sport,250.0,Children;#Teens,Sharepoint,Tier 1
+Recreation,NYC Parks and Recreation,2019-09-22T09:00:00.000,Queens,Other,Beach 82nd Street,Rockaway Basketball Classic,Community Based Event,Sport,200.0,Children;#Teens,Sharepoint,Tier 1
+Recreation,Ocean Breeze Athletic Complex,2018-07-11T19:00:00.000,Staten Island,Other,Franklin D. Roosevelt Boardwalk and Beach,Twilight Run,Community Based Event,Fitness,54.0,General Public,Sharepoint,Tier 2
+Urban Park Rangers,121 Precinct Community Board,2019-11-13T19:00:00.000,Staten Island,Other,121 Precinct,121 Precinct Community Board Meeting,Community Based Event,Nature,80.0,General Public,Sharepoint,
+Recreation,,2018-07-05T11:00:00.000,Bronx,Other,St Andrews Summer camp,Summer Blast,Community Based Event,Mobile Unit,40.0,Children,Sharepoint,Music
+Recreation,,2018-07-03T11:00:00.000,Bronx,Other,P.S. 89,Field Day,Community Based Event,Mobile Unit,53.0,Children,Sharepoint,Play
+Public Programs,Rufus King Stakeholders,2019-12-14T14:00:00.000,Queens,Park,Grace Episcopal Church /Rufus King Park,Holiday On the Avenue,Community Based Event,Family Festival,100.0,General Public,Sharepoint,Play
+Recreation,,2018-07-10T12:00:00.000,Bronx,Other,Francis Martin Library,Summer reading in the park,Community Based Event,Mobile Unit,5.0,Children,Sharepoint,Play
+Urban Park Rangers,Zimmer Club,2020-02-29T09:00:00.000,Staten Island,Other,4411 Arthur Kill Road,Zimmer Club,Community Based Event,Nature,60.0,Children;#Young Adult;#Adults;#Teens;#Tot,Sharepoint,
+Recreation,,2018-07-14T20:30:00.000,Queens,Other,Beach 94th Street,"MUTS ""Big Fish""",Community Based Event,Mobile Unit,189.0,General Public,Sharepoint,
+Recreation,,2018-07-15T20:30:00.000,Queens,Other,Beach 94th Street,"MUTS ""Kubo and the Two Strings""",Community Based Event,Mobile Unit,82.0,General Public,Sharepoint,
+Recreation,"Council Member Johnson, Agostino Face Paint & Send in the Clowns",2018-05-26T20:30:00.000,Manhattan,Other,William F. Passannante Ballfield,Movies Under the Stars,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Movies
+Recreation,,2018-07-11T21:00:00.000,Staten Island,Other,Det. Russel Timoshenko,Movies Under the Stars: Jaws,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Movies
+Recreation,Ocean Breeze Athletic Complex,2018-07-18T19:00:00.000,Staten Island,Other,Franklin D. Roosevelt Boardwalk and Beach,Twilight Run,Community Based Event,Fitness,,General Public,Sharepoint,Tier 2
+Recreation,,2018-07-14T21:00:00.000,Staten Island,Other,Cedar Grove Meadow,Movies Under the Stars: Peter Rabbit,Community Based Event,Mobile Unit,125.0,General Public,Sharepoint,Movies
+Recreation,Ocean Breeze Athletic Complex,2018-07-25T19:00:00.000,Staten Island,Other,Franklin D. Roosevelt Boardwalk and Beach,Twilight Run,Community Based Event,Fitness,,General Public,Sharepoint,Tier 2
+Recreation,,2018-07-19T20:30:00.000,Bronx,Other,Frank Frisch Field,Movies Under The Stars: Peter Rabbit,Community Based Event,Mobile Unit,72.0,General Public,Sharepoint,Movies
+Recreation,Boogie Down Bronx Runners,2020-07-24T13:00:00.000,Bronx,Other,Virtual,Special Express Writers Anthology Reading and Book Launch,Agency Produced Event,Arts/Culture,28.0,Adults;#Young Adult,Sharepoint,Summer 2020
+Recreation,,2018-07-20T20:30:00.000,Queens,Other,Beach 59th Street,"MUTS ""Southside with You""",Community Based Event,Mobile Unit,82.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-26T14:00:00.000,Queens,Other,Rockaway Beach and Boardwalk,Boardwalk Buddies,Agency Produced Event,Nature,6.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-21T11:00:00.000,Bronx,Other,Burnside Ave between Morris Av & Walton Av,Summer Event,Community Based Event,Mobile Unit,200.0,Children;#General Public,Sharepoint,Play
+Recreation,,2018-07-14T11:00:00.000,Bronx,Other,Barnes Av between E 216 & 217 St,Agnes Heywood Family Day,Community Based Event,Mobile Unit,16.0,Children;#General Public,Sharepoint,Play
+Recreation,,2018-07-13T13:00:00.000,Bronx,Other,161 street & Melrose ave,Melrose Weekend Walks,Community Based Event,Mobile Unit,120.0,General Public,Sharepoint,Play
+Recreation,,2020-07-31T11:00:00.000,Bronx,Other,Virtual Poe,Special Express Writers Anthology Project,Agency Produced Event,Arts/Culture,7.0,Young Adult;#Adults,Sharepoint,Summer 2020
+Urban Park Rangers,Green Thumb,2020-08-01T11:00:00.000,Brooklyn,Other,Brooklyn Bears Carlton Avenue Community Garden,Open Garden Day: Succulent Workshop,Agency Produced Event,Arts/Culture,20.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-06-23T20:30:00.000,Queens,Other,Sean's Place,"Movies Under the Stars ""Lego: Ninjago""",Community Based Event,Mobile Unit,54.0,General Public,Sharepoint,Movies
+Recreation,,2018-06-30T20:30:00.000,Queens,Other,Rory Staunton Field,"Movies Under the Stars ""An American Tail""",Community Based Event,Mobile Unit,101.0,General Public,Sharepoint,Movies
+Recreation,ADAPT Community Services,2020-08-07T11:00:00.000,Bronx,Other,Virtual,Special Express Writers Anthology Project,Agency Produced Event,Arts/Culture,8.0,Young Adult;#Adults,Sharepoint,Summer 2020
+Recreation,,2017-11-16T10:00:00.000,Manhattan,Other,Swidish Cottage,3 Bears puppet show,Local Event,Performance,12.0,Tot;#Adults,Sharepoint,Play
+Recreation,Jeantheia Hampton,2020-08-14T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Bingo,Local Event,Arts/Culture,4.0,Seniors,Sharepoint,Summer 2020
+Recreation,ADAPT,2020-08-14T11:00:00.000,Bronx,Other,Virtual Poe,Special Express Writers Anthology Project,Agency Produced Event,Arts/Culture,8.0,Young Adult;#Adults,Sharepoint,Summer 2020
+Recreation,,2018-07-29T20:30:00.000,Queens,Other,Beach 94th Street,"Movies Under the Stars ""The Little Mermaid""",Community Based Event,Mobile Unit,260.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-08-15T12:00:00.000,Manhattan,Other,West 152nd and McCombs (Open Street),Meet The Corn Snake and the Urban Park Rangers,Agency Produced Event,Nature,25.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-28T20:30:00.000,Staten Island,Other,Timoshenko,Movies Under the Stars: Star Wars: The Last Jedi,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-08-21T12:00:00.000,Queens,Other,Rockaway Beach and Boardwalk,Ocean Wildlife,Community Based Event,Nature,7.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-08-22T12:00:00.000,Manhattan,Other,Colonel Charles Young Triangle,Can I have five minutes of your time?: An insect census.,Community Based Event,Nature,40.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-08-05T20:30:00.000,Queens,Other,Beach 94th Street,"Movies Under the Stars ""Escape to Witch Mountain""",Community Based Event,Mobile Unit,177.0,General Public,Sharepoint,
+Recreation,ADAPT Community Services,2020-08-28T11:00:00.000,Bronx,Other,Virtual for Poe,Specail Express Writers Anthology,Agency Produced Event,Arts/Culture,0.0,Young Adult;#Adults,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-08-29T12:00:00.000,Manhattan,Other,Colonel Charles Young Triangle,These Sticks were made for Walkin',Local Event,Nature,7.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-08-15T00:00:00.000,Manhattan,Other,East River Esplanade,Total Body BootCamp Workout,Community Based Event,Fitness,10.0,Adults,Sharepoint,Fitness
+Recreation,,2018-08-05T20:00:00.000,Brooklyn,Park,Randall's Island Park,Movies Under the Stars,Community Based Event,Mobile Unit,700.0,General Public,Sharepoint,Movies
+Recreation,,2020-08-08T00:00:00.000,Manhattan,Other,East River Esplanade,Total Body BootCamp,Community Based Event,Fitness,10.0,Adults,Sharepoint,Fitness
+Recreation,,2020-08-08T00:00:00.000,Queens,Other,Rockaway Beach and Boardwalk,Far Rockaway Beach 17th street,Community Based Event,Fitness,2.0,Adults,Sharepoint,Fitness
+Recreation,Shapeup NYC,2020-07-25T13:01:00.000,Bronx,Other,301 W Tremont Ave,Kickboxing,Community Based Event,Fitness,10.0,Adults,Sharepoint,Summer 2020
+Recreation,Shapeup NYC,2020-07-25T10:10:00.000,Queens,Other,"Far Rockaway, Beach 17",ultimate cardio,Community Based Event,Fitness,1.0,Adults,Sharepoint,Summer 2020
+Recreation,Shapeup NYC,2020-07-25T14:13:00.000,Bronx,Other,301 W Tremont Ave,Kickboxing,Community Based Event,Fitness,10.0,Adults,Sharepoint,Summer 2020
+Recreation,Shapeup NYC,2020-07-25T10:59:00.000,Manhattan,Other,Pier 35,Total body bootcamp,Community Based Event,Fitness,6.0,Adults,Sharepoint,Summer 2020
+Recreation,Shapeup NYC,2020-07-25T14:13:00.000,Bronx,Other,301 W Tremont Ave.,Kickboxing,Community Based Event,Fitness,10.0,Adults,Sharepoint,Summer 2020
+Recreation,Shapeup NYC,2020-07-25T21:47:00.000,Manhattan,Other,Pier 35,Total body bootcamp,Community Based Event,Fitness,6.0,Adults,Sharepoint,Summer 2020
+Recreation,shapeup nyc,2020-07-17T21:23:00.000,Manhattan,Other,pier 35,total body bootcamp,Community Based Event,Fitness,5.0,Adults,Sharepoint,Summer 2020
+Recreation,shapeup nyc,2020-07-17T22:52:00.000,Manhattan,Other,pier 35,total body bootcamp,Community Based Event,Fitness,5.0,Adults,Sharepoint,Summer 2020
+Recreation,,2018-08-10T20:30:00.000,Queens,Other,Beach 59th Street,Movies Under the Stars,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Movies
+Recreation,shapeup nyc,2020-07-23T10:39:00.000,Queens,Other,queens bridge,mindful movement,Community Based Event,Fitness,1.0,Adults,Sharepoint,Summer 2020
+Recreation,shapeup nyc,2020-07-23T10:39:00.000,Queens,Other,queensbridge,mindful movement,Community Based Event,Fitness,1.0,Adults,Sharepoint,Summer 2020
+Recreation,shapeup nyc,2020-07-18T21:11:00.000,Queens,Other,beach 17 st far rockway,ultimate cardio,Community Based Event,Fitness,5.0,Adults,Sharepoint,Summer 2020
+Recreation,,2018-08-12T20:30:00.000,Queens,Other,Beach 94th Street,"Movies Under the Stars ""North Shore""",Community Based Event,Mobile Unit,217.0,General Public,Sharepoint,Movies
+Recreation,,2018-08-11T20:30:00.000,Queens,Other,Beach 94th Street,Movies Under the Stars,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Movies
+Recreation,,2020-08-01T10:00:00.000,Manhattan,Other,East River Esplanade,Shape Up NYC: Total Body BootCamp,Community Based Event,Fitness,10.0,Adults,Sharepoint,Summer 2020
+Recreation,,2020-08-01T11:00:00.000,Queens,Other,Rockaway Beach and Boardwalk,Shape Up NYC: Ultimate Cardio,Community Based Event,Fitness,0.0,Adults,Sharepoint,Summer 2020
+Urban Park Rangers,General public,2020-09-04T12:45:00.000,Queens,Other,Peters Field,Los animales en los arboles,Community Based Event,Nature,2.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General public,2020-09-04T11:25:00.000,Queens,Other,Rockaway Beach and Boardwalk,Who lives in the Ocean,Community Based Event,Nature,10.0,General Public,Sharepoint,Summer 2020
+Recreation,ADAPT Community Services,2020-09-04T11:00:00.000,Bronx,Other,Virtual Poe on Zoom,Special Express Writers Anthology Project,Agency Produced Event,Arts/Culture,7.0,Young Adult;#Adults,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-09-05T11:00:00.000,Manhattan,Other,"Harlem Open Streets: 127th street, between Adam Clayton Powell and Fredrick Douglas Blvds",Harlem Open Streets West 127th R.C.C and You,Community Based Event,Nature,27.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-09-05T11:30:00.000,Manhattan,Other,Harlem Open Streets West 127th,Harlem Open Streets West 127th Meet the Rangers and Pumpkin the Corn Snake,Community Based Event,Nature,18.0,General Public,Sharepoint,Summer 2020
+Recreation,ADAPT Community Services Nate Vaky,2020-09-11T11:00:00.000,Bronx,Other,Virtual Poe,Special Express Writers Anthology,Agency Produced Event,Arts/Culture,9.0,Young Adult;#Adults,Sharepoint,Summer 2020
+Recreation,,2018-04-21T09:00:00.000,Manhattan,Other,"Broadway, Times Square, Union Square",Car Free Earth Day,Community Based Event,Academic/Out of School time,,General Public,Sharepoint,
+Recreation,Jeslyn Galarza,2020-09-14T10:00:00.000,Bronx,Park,St. Mary's Parking Lot,Trap and Spin,Open House,Fitness,0.0,Adults;#Young Adult;#Seniors,Sharepoint,Fitness
+Urban Park Rangers,General public,2020-09-16T12:00:00.000,Queens,Other,Rockaway Beach and Boardwalk,Beach Birds and Butterflies,Community Based Event,Nature,9.0,General Public,Sharepoint,Summer 2020
+Recreation,ADAPT Community Services Nate Vaky,2020-09-18T11:00:00.000,Bronx,Park,Virtual Poe Park VC,Special Express Writers Anthology,Agency Produced Event,Arts/Culture,6.0,Adults;#Young Adult,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-09-21T16:00:00.000,Brooklyn,Other,Parade Ground,Bowling Green Cottage Clean-Up and Planting,Community Based Event,Nature,2.0,General Public,Sharepoint,Summer 2020
+Recreation,ADAPT Nate Vaky,2020-09-25T11:00:00.000,Bronx,Park,Virtual Poe Park,Virtual Special Express Writers Anthology Project,Agency Produced Event,Arts/Culture,6.0,Adults,Sharepoint,Play
+Recreation,ADAPT Community Network,2020-10-02T11:40:00.000,Bronx,Park,Virtual Poe Park,Virtual Special Express Writers Anthlogy,Agency Produced Event,Arts/Culture,8.0,Adults;#Young Adult,Sharepoint,Summer 2020
+Recreation,,2021-06-12T00:00:00.000,Bronx,Other,26--68 Decatur Ave Between 194 St and 195 St.,Jose Rivera Family Day Event,Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,Play
+Recreation,,2021-06-17T15:00:00.000,Bronx,Other,Co-Op City (Section 1 Greenway),NYPD EVENT,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,Play
+Recreation,Khadija Davis,2021-06-24T13:00:00.000,Bronx,Other,Washington Avenue,Linda Kemp's Event,Community Based Event,Mobile Unit,126.0,General Public,Sharepoint,Play
+Recreation,MOME,2021-06-26T20:00:00.000,Manhattan,Other,Sol Lain Plgd,MUTS: The Croods: A New Age,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Recreation,MOME,2021-06-11T20:00:00.000,Manhattan,Other,Pier 35,MUTS: Gremlins,Community Based Event,Mobile Unit,188.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2021-07-17T20:00:00.000,Queens,Other,Flushing Fields,Tom & Jerry (2021),Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2021-07-29T21:00:00.000,Bronx,Other,Orchard Beach,Movies Under the Stars - Megamind,Community Based Event,Mobile Unit,0.0,Children;#Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2018-08-16T20:00:00.000,Bronx,Other,Frank Frisch Field,Movies Under The Stars: A Dog's Purpose,Community Based Event,Mobile Unit,64.0,General Public,Sharepoint,Movies
+Recreation,MOME,2021-07-29T21:00:00.000,Manhattan,Other,Sara D. Roosevelt Track,Movies Under The Stars: PokÃ©mon Detective Pikachu,Community Based Event,Mobile Unit,125.0,General Public,Sharepoint,M.U.T.S
+Public Programs,Movie Under the Stars,2021-07-30T00:00:00.000,Staten Island,Other,Timoshenko Soccer FIeld,Tenet,Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,Movies
+Recreation,,2021-08-03T13:00:00.000,Bronx,Other,489 East 169th Street,Borough-Wide Special Event (With NYPD),Community Based Event,Mobile Unit,170.0,General Public,Sharepoint,Play
+Recreation,43rd Precinct National Night Out,2021-08-03T14:00:00.000,Bronx,Other,Soundview,National Night Out,Community Based Event,Arts/Culture,300.0,General Public,Sharepoint,Play
+Recreation,,2021-08-07T11:00:00.000,Bronx,Other,Orchard Beach,Beach Games Event,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,Play
+Recreation,MOME,2021-08-06T21:00:00.000,Manhattan,Other,William F. Passannante Ballfield,Movies Under The Stars: Love and Monsters,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-08-16T11:00:00.000,Bronx,Other,St Andrews Church,Play & Picnic Day,Agency Produced Event,Mobile Unit,65.0,Children,Sharepoint,Play
+Recreation,,2018-07-28T10:00:00.000,Bronx,Other,3920 Paulding Avenue,11th Annual Educational Street Fair,Agency Produced Event,Mobile Unit,12.0,Children;#General Public,Sharepoint,Play
+Public Programs,CM Salamanca,2021-08-17T21:00:00.000,Bronx,Other,James Burke Ballfields,Movies Under the Stars - Trolls: World Tour,Community Based Event,Mobile Unit,160.0,Tot;#Children;#Young Adult;#Adults;#Teens;#Adaptive;#Seniors;#General Public,Sharepoint,M.U.T.S
+Recreation,,2021-08-21T12:00:00.000,Bronx,Other,172nd St & 3rd Avenue,Back to School Event,Community Based Event,Mobile Unit,55.0,General Public,Sharepoint,Play
+Recreation,,2018-05-20T11:00:00.000,Bronx,Other,Castle hill YMCA,YMCA- Hispanic Grand Council Event,Community Based Event,Mobile Unit,30.0,Children;#Young Adult;#General Public,Sharepoint,Play
+Public Programs,,2021-08-20T20:30:00.000,Bronx,Other,Orchard Beach,Movies Under the Stars - Godzilla vs. Kong,Community Based Event,Mobile Unit,350.0,Children;#Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2018-08-07T16:00:00.000,Bronx,Other,48th Precint,National Night Out,Agency Produced Event,Mobile Unit,200.0,Children;#General Public,Sharepoint,Play
+Recreation,,2021-08-24T15:00:00.000,Bronx,Other,Van Dyke Cornerstone 392 Blake Avenue,FDNY POP UP EVENT,Community Based Event,Mobile Unit,60.0,General Public,Sharepoint,Play
+Recreation,,2021-08-25T12:00:00.000,Bronx,Other,759 Jennings Street (Between Union & Prospect Avenue),NYPD COMMUNITY AFFAIRS (BRINGS UNITY BACK TO THE COMMUNITY),Community Based Event,Mobile Unit,85.0,General Public,Sharepoint,Play
+Recreation,,2021-08-25T11:00:00.000,Queens,Other,Athens Square,Mobile Unit Pop-Up,Community Based Event,Mobile Unit,11.0,General Public,Sharepoint,Play
+Recreation,,2021-08-28T11:00:00.000,Bronx,Other,1619 East 174 Street,Bronx River Cornerstone Event,Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,Play
+Recreation,,2021-09-03T13:00:00.000,Bronx,Other,156th Street Between Melrose Ave and Courtland Ave,PAL EVENT,Community Based Event,Mobile Unit,108.0,General Public,Sharepoint,Play
+Public Programs,,2021-08-27T20:00:00.000,Bronx,Other,Juan Caraballo Field,Movies Under the Stars - Onward,Community Based Event,Mobile Unit,0.0,Children;#Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,Movies Under the Stars,2021-09-11T20:00:00.000,Staten Island,Other,Det. Russel Timoshenko Soccer Field,Bill and Ted Face the Music,Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,Movies
+Recreation,Green Thumb,2021-09-18T11:00:00.000,Manhattan,Other,Pleasant Village Community Garden,Harvest Fest with Green Thumb,Community Based Event,Nature,150.0,General Public,Sharepoint,
+Recreation,,2021-09-17T19:00:00.000,Queens,Other,Athens Square,Back to the Future (1985),Community Based Event,Mobile Unit,95.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2021-09-24T15:00:00.000,Queens,Other,IS 141 Steinway,Mobile Unit Pop-Up / FDNY,Community Based Event,Mobile Unit,35.0,General Public,Sharepoint,Play
+Recreation,,2021-09-25T10:00:00.000,Queens,Other,Bayside Fields,Mobile Unit Pop-Up,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Play
+Recreation,,2021-09-25T19:00:00.000,Queens,Other,Bayside Fields,Peter Rabbit 2: The Runaway (2021),Community Based Event,Mobile Unit,55.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-08-19T20:30:00.000,Queens,Other,Beach 94th Street,"Movies Under the Stars ""Saving Jamaica Bay""",Community Based Event,Mobile Unit,62.0,General Public,Sharepoint,Movies
+Recreation,,2018-08-26T20:30:00.000,Queens,Other,Beach 94th Street,"Movies Under the Stars ""Princess Bride""",Community Based Event,Mobile Unit,169.0,General Public,Sharepoint,Movies
+Recreation,,2018-08-24T20:00:00.000,Bronx,Other,Ochard Beach,Movies Under The Stars: Black Panther,Community Based Event,Mobile Unit,500.0,General Public,Sharepoint,Movies
+Recreation,,2018-05-26T12:00:00.000,Bronx,Other,Lafayette Ave & Edgewater Road,The amazing Bronx river flotilla,Community Based Event,Mobile Unit,25.0,Children;#Young Adult;#Adults;#General Public,Sharepoint,Play
+Recreation,,2018-09-06T18:00:00.000,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Make Your Mark - Rooftop Painting,Community Based Event,Arts/Culture,33.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors;#General Public,Sharepoint,AC&F
+Recreation,,2018-08-18T11:00:00.000,Bronx,Other,172 st & Bathgate Avenue,Back To School,Community Based Event,Mobile Unit,40.0,Children;#General Public,Sharepoint,Play
+Recreation,,2018-08-25T11:00:00.000,Bronx,Other,158 St & Grand Concourse,Back To School Jam,Community Based Event,Mobile Unit,300.0,Children;#General Public,Sharepoint,Play
+Recreation,,2018-09-01T11:00:00.000,Bronx,Other,2347 Lafayette Ave & Zerega,LTF Back 2 school,Community Based Event,Mobile Unit,160.0,Children;#General Public,Sharepoint,Play
+Recreation,,2018-09-06T20:30:00.000,Queens,Other,Beach 94th Street,Movies Under the Stars,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Movies
+Recreation,,2018-09-13T19:15:00.000,Bronx,Other,Belmont Field,Movies Under The Stars: Captain Underpants,Community Based Event,Mobile Unit,48.0,General Public,Sharepoint,Movies
+Recreation,,2018-09-27T18:40:00.000,Bronx,Park,River Park,Movies Under The Stars: Ferdinand,Community Based Event,Mobile Unit,5.0,General Public,Sharepoint,Movies
+Recreation,,2018-09-01T20:00:00.000,Staten Island,Other,Cedar Grove Meadow,Movies Under the Stars: A League Of their Own,Community Based Event,Mobile Unit,10.0,General Public,Sharepoint,Movies
+Recreation,,2018-09-14T00:00:00.000,Staten Island,Other,Snug Harbor Cultural Center,Movies Under the Stars: The Black Monk,Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,Movies
+Recreation,,2018-09-28T19:30:00.000,Staten Island,Other,Timoshenko,Movies Under the Stars: Jurassic World:The Fallen Kingdom,Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,Movies
+Public Programs,,2018-08-16T11:15:00.000,Manhattan,Recreation Center,Hamilton Fish Recreation Center,Old School Playground Games,Community Based Event,Family Festival,56.0,General Public;#Children;#Young Adult;#Adults;#Teens;#Seniors,Sharepoint,Play
+Public Programs,PSA#4 & 7th Precinct,2018-03-31T12:00:00.000,Manhattan,Recreation Center,Hamilton Fish Recreation Center,2018 Cops & Kis March Madness,Community Based Event,Sport,175.0,General Public;#Teens;#Adults;#Young Adult;#Children,Sharepoint,
+Recreation,,2018-06-01T20:00:00.000,Queens,Other,Rory Staunton Field,MUTS - Paddington,Community Based Event,Mobile Unit,112.0,General Public,Sharepoint,Movies
+Recreation,Queens Recreation,2018-11-12T10:00:00.000,Queens,Other,Beach 32nd Street,Girl's Flag Football Invitational,Community Based Event,Sport,80.0,Teens;#Children,Sharepoint,Play
+Urban Park Rangers,Green Horizons,2018-10-18T10:00:00.000,Queens,Other,Queens Botanical Garden,Green Horizons,Community Based Event,Family Festival,120.0,Children,Sharepoint,
+Recreation,7th Precinct Community Affairs,2019-03-23T12:00:00.000,Manhattan,Other,Basketball City,March Madness: Cops & Kids Baksetball,Tournament/Competition,Sport,335.0,Children;#Teens;#General Public,Sharepoint,Tier 1
+Recreation,Department of Education,2018-04-21T00:00:00.000,Queens,Other,Long Island City YMCA,DOE CED Distirct 30 Healthy Kids Day,Community Based Event,Sport,350.0,Children;#Teens,Sharepoint,Fitness
+Recreation,World Ice Arena,2018-03-16T19:00:00.000,Queens,Other,World Ice Arena ( FMCP ),Parks Evening of Ice Skating at World Ice Arena,Community Based Event,Family Festival,142.0,General Public,Sharepoint,Play
+Recreation,Council member Johnson,2019-05-25T18:00:00.000,Manhattan,Other,William F. Passannante Ballfield,Movies Under the Stars: Christopher Robin,Community Based Event,Mobile Unit,126.0,Children;#General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Deutsch,2019-04-23T20:00:00.000,Brooklyn,Park,Manhattan Beach Parking Lot,Beauty and the Beast(2017),Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-06T11:00:00.000,Bronx,Other,P.S 195,Degrees of Fitness and Fun,Community Based Event,Mobile Unit,200.0,Children,Sharepoint,Play
+Recreation,,2018-06-15T11:00:00.000,Bronx,School,South Bronx Charter School,2018 Annual Picnic,Community Based Event,Mobile Unit,400.0,Children,Sharepoint,Play
+Recreation,"Councilman Brannan, Sound Off",2019-05-31T19:30:00.000,Brooklyn,Other,American Veterans Memorial Pier,Silent Disco,Community Based Event,Mobile Unit,550.0,Young Adult;#Adults;#Teens;#Seniors;#General Public,Sharepoint,Music
+Recreation,,2018-06-11T10:00:00.000,Bronx,Park,Poe Park,Youth Arts Festival,Community Based Event,Mobile Unit,150.0,Children;#General Public,Sharepoint,Play
+Recreation,Musuem of Chinese in America,2019-06-07T19:00:00.000,Manhattan,Park,Columbus Park,Movie: Kung Fu Panda,Community Based Event,Mobile Unit,325.0,Children;#Young Adult;#General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-08T20:30:00.000,Staten Island,Park,Great Kills Park,Iron Man 2 (2010),Community Based Event,Mobile Unit,70.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-01T20:30:00.000,Staten Island,Park,Willowbrook Park,Iron Man (2008),Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Levine,2019-06-06T19:00:00.000,Manhattan,Park,Carmansville Park,Movie: Green Book,Community Based Event,Mobile Unit,290.0,General Public;#Teens;#Adults,Sharepoint,M.U.T.S
+Recreation,Jazz Foundation,2019-06-06T18:00:00.000,Manhattan,Park,Marcus Garvey Park,Jazz Concert,Community Based Event,Arts/Culture,350.0,General Public,Sharepoint,AC&F
+Urban Park Rangers,National Park Service,2019-06-12T10:00:00.000,Brooklyn,Park,Canarsie Park,Seining,Agency Produced Event,Nature,10.0,Adults,Sharepoint,Aquatics
+Recreation,,2019-06-11T11:00:00.000,Manhattan,Park,John Jay Park,Learn to Ride,Community Based Event,Fitness,35.0,Children;#Young Adult;#Teens,Sharepoint,
+Recreation,Council Member Kallos,2019-05-11T13:00:00.000,Manhattan,Park,Andrew Haswell Green Park,Jazz Concert: Lara Bello,Community Based Event,Arts/Culture,85.0,General Public,Sharepoint,
+Recreation,Bike NYC,2019-05-18T11:00:00.000,Queens,Park,Grover Cleveland Park,Learn to Ride,Community Based Event,Sport,23.0,Children;#Teens,Sharepoint,
+Recreation,"Harlem Renaissance Orchestra, Harlem Swing Dance Society",2018-06-16T17:00:00.000,Manhattan,Park,Marcus Garvey Park,Tonight We dance: Jazz & Swing,Community Based Event,Performance,445.0,General Public,Sharepoint,Dance
+Recreation,Bike NYC,2019-05-25T11:00:00.000,Queens,Playground,Arverne Playground,Learn to Ride,Community Based Event,Sport,19.0,Children;#Teens,Sharepoint,
+Recreation,Community Board 3,2019-06-08T10:00:00.000,Queens,Playground,Junction Playground,Community Board 3 Health Fair,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Play
+Recreation,Queensboro Dance Festival,2019-06-08T18:00:00.000,Queens,Park,Beach 17th Street,Queensboro Dance Festival,Open House,Arts/Culture,250.0,General Public,Sharepoint,AC&F
+Recreation,,2018-06-14T20:00:00.000,Manhattan,Park,Marcus Garvey Park,Movies Under the Stars: The Shape of Water,Community Based Event,Mobile Unit,220.0,General Public,Sharepoint,Movies
+Recreation,Council Member Holden,2019-05-25T01:00:00.000,Queens,Park,Frank Principe Park,Spring Festival at Frank Principe Park,Local Event,Family Festival,400.0,General Public,Sharepoint,Play
+Recreation,Council Member Adrienne Adams,2019-06-01T13:00:00.000,Queens,Park,Baisley Park Extension,District 28 Day,Local Event,Family Festival,190.0,General Public,Sharepoint,Play
+Recreation,MOCA Cinema,2018-06-15T20:00:00.000,Manhattan,Park,Columbus Park,Movies Under the Stars: MOCA: The Lego Ninjago Movie,Community Based Event,Mobile Unit,227.0,General Public,Sharepoint,Movies
+Recreation,,2019-06-14T20:00:00.000,Bronx,Park,Pelham Parkway,Fantastic Beast: Crimes of Grindelwald,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-08T09:00:00.000,Queens,Park,Roy Wilkins Park,Queens Recreation Pickleball Tournament,Tournament/Competition,Sport,100.0,Seniors;#Adults,Sharepoint,Tier 3
+Recreation,Partnership for Parks,2019-06-15T11:00:00.000,Queens,Playground,Astoria Heights Playground,,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Play
+Recreation,,2019-06-14T20:00:00.000,Bronx,Park,Joyce Kilmer Park,Ant Man & the Wasp,Community Based Event,Mobile Unit,30.0,General Public,Sharepoint,M.U.T.S
+Recreation,Jonathan Adone,2020-08-28T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick UP Pickleball,Local Event,Fitness,20.0,Seniors,Sharepoint,Summer 2020
+Recreation,,2019-06-09T00:00:00.000,Brooklyn,Park,Bushwick Inlet Park,Bohemian Rhapsody(2018),Community Based Event,Mobile Unit,302.0,General Public,Sharepoint,M.U.T.S
+Recreation,"Make Music NY, ACF",2019-06-21T19:00:00.000,Brooklyn,Park,McCarren Park,Summer Solstice,Community Based Event,Arts/Culture,100.0,General Public,Sharepoint,Music
+Recreation,,2019-06-22T20:00:00.000,Bronx,Park,Van Cortlandt Park,Creed 2,Community Based Event,Mobile Unit,190.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Justin Branan,2019-06-23T20:30:00.000,Brooklyn,Park,Owl's Head Park,ET,Community Based Event,Mobile Unit,300.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Cabrera,2018-06-18T20:30:00.000,Bronx,Park,St. James Park,Movies Under The Stars: Coco,Community Based Event,Mobile Unit,136.0,General Public,Sharepoint,Movies
+Recreation,,2019-06-21T20:00:00.000,Bronx,Park,Soundview Park,Spider-Man:Into the Spider-Verse,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,M.U.T.S
+Recreation,"Councilman Justin Branan, Skaterobics",2019-06-15T12:00:00.000,Brooklyn,Park,Shore Park and Parkway,Community Skate,Community Based Event,Sport,160.0,General Public,Sharepoint,Play
+Urban Park Rangers,NYC Parks Central Recreation,2019-06-15T11:00:00.000,Manhattan,Park,Central Park,Adventures NYC,Agency Produced Event,Sport,5000.0,Children;#Young Adult;#Adults;#Teens,Sharepoint,
+Recreation,,2018-06-15T20:30:00.000,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: The Black Panther,Community Based Event,Mobile Unit,125.0,General Public,Sharepoint,Movies
+Urban Park Rangers,Bayside Historical Society,2019-06-26T17:00:00.000,Queens,Park,Fort Totten Park,Independence Day Celebration at Fort Totten Park,Community Based Event,Family Festival,800.0,General Public,Sharepoint,
+Recreation,,2019-06-25T20:00:00.000,Bronx,Park,Williamsbridge Oval Park,Avengers: Infinity Wars,Community Based Event,Mobile Unit,93.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-26T20:00:00.000,Bronx,Park,Henry Hudson Park,Lego Movie: The Second Part,Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-19T12:00:00.000,Bronx,Park,Van Courtlandt Park S,Play at VC,Community Based Event,Mobile Unit,60.0,Children;#General Public,Sharepoint,Play
+Recreation,"Skaterobics, Councilman Deutsch",2019-06-27T17:00:00.000,Brooklyn,Park,Kelly Park,Community Roller Skate,Community Based Event,Arts/Culture,500.0,General Public,Sharepoint,Play
+Recreation,Councilman Cohen,2018-06-20T20:30:00.000,Bronx,Park,Seton Park,Movies Under The Stars: Despicable Me 3,Community Based Event,Mobile Unit,60.0,General Public,Sharepoint,Movies
+Recreation,Art Of Brooklyn Film Festival,2019-06-30T20:30:00.000,Brooklyn,Park,Sunset Park,Hip Hop Film Festival,Community Based Event,Mobile Unit,500.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Rory Lancman,2019-06-29T13:00:00.000,Queens,Park,Captain Tilly Park,Family Day at Captain Tilly Park,Local Event,Family Festival,250.0,General Public,Sharepoint,Play
+Recreation,Plaza Theatrical,2019-06-23T16:00:00.000,Queens,Park,Beach 17th Street,Wizard of Oz at Beach 17,Agency Produced Event,Performance,120.0,General Public,Sharepoint,Music
+Recreation,MOME,2019-06-01T13:00:00.000,Queens,Park,MacDonald Park,Family Fun and Music,Community Based Event,Performance,425.0,General Public,Sharepoint,Music
+Recreation,MOME,2019-06-09T15:00:00.000,Queens,Park,St. Albans Park,New York Music Month Concert Series-Reggae,Community Based Event,Performance,175.0,General Public,Sharepoint,Music
+Recreation,MOME,2019-06-29T07:00:00.000,Queens,Park,Hunters Point Park South,New York Music Month Concert Series-Celebration of Disco,Community Based Event,Performance,525.0,General Public,Sharepoint,Music
+Recreation,MOME,2019-06-15T19:00:00.000,Queens,Park,Gorman Park,New York Music Month Concert Series Latin Music-Orquesta Afinke,Community Based Event,Performance,350.0,General Public,Sharepoint,Music
+Recreation,,2019-06-28T20:30:00.000,Bronx,Park,Barretto Point Park,Hotel Transylvania 3: Summer Vacation,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,MOME,2019-06-22T13:00:00.000,Queens,Park,Macneil Park,New York Music Month Concert Series-History of Rock and Roll,Community Based Event,Performance,175.0,General Public,Sharepoint,Music
+Recreation,,2019-06-28T20:30:00.000,Bronx,Park,Bill Rainey Park,Capatain Marvel,Community Based Event,Mobile Unit,130.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-18T20:00:00.000,Bronx,Park,Williamsbridge Oval Park,Avengers: Infinity War,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,M.U.T.S
+Recreation,CM Constantinides,2019-06-27T20:30:00.000,Queens,Park,Louis C. Moser Park,Frozen,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,CM Constantinides,2019-06-22T20:30:00.000,Queens,Park,Astoria Heights Park,Ralph Breaks the Internet,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,CM Kozlowitz,2019-06-26T20:30:00.000,Queens,Park,Yellowstone Park,Small Foot,Community Based Event,Mobile Unit,175.0,General Public,Sharepoint,M.U.T.S
+Recreation,CM Dromm; Jackson Heights Beautification Group,2019-06-29T20:30:00.000,Queens,Park,Travers Park,Spider-Man: Into the Spiderverse,Community Based Event,Mobile Unit,300.0,General Public,Sharepoint,M.U.T.S
+Recreation,CM Vallone/NEQ Admin,2019-06-21T20:30:00.000,Queens,Park,Flushing Fields,Black Panther,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-22T20:30:00.000,Queens,Park,"Phil ""Scooter"" Rizzuto Park",MUTS - Despicable Me 3,Community Based Event,Mobile Unit,89.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-02T20:30:00.000,Queens,Park,Roy Wilkins Park,Jurassic World: Fallen Kingdom,Community Based Event,Mobile Unit,12.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,Brooklyn Sunset Park Recreation,2019-06-06T11:00:00.000,Brooklyn,Park,Sunset Park,Sunset Park Family Day,Agency Produced Event,Family Festival,250.0,General Public,Sharepoint,Dance
+Recreation,,2018-06-21T20:30:00.000,Bronx,Park,Harris Park,Movies Under The Stars: Wonder,Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,Movies
+Recreation,Bayside Historical Society,2019-06-26T18:00:00.000,Queens,Park,Fort Totten,Fire Works at Fort Totten,Local Event,Family Festival,700.0,General Public,Sharepoint,
+Recreation,,2019-07-03T20:45:00.000,Queens,Park,Kissena Park,Spider-Man: Into the Spiderverse,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Recreation,Brooklyn Rec,2019-07-02T20:30:00.000,Brooklyn,Park,Prospect Park,"""On The Basis Of Sex"" Movie Night",Community Based Event,Mobile Unit,275.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-16T20:00:00.000,Queens,Park,Edward Byrne,"MUTS "" Ferdinand """,Community Based Event,Mobile Unit,114.0,General Public,Sharepoint,Movies
+Recreation,,2018-06-21T20:30:00.000,Bronx,Park,Poe Park,Movies Under The Stars: Justice League,Community Based Event,Mobile Unit,80.0,General Public,Sharepoint,Movies
+Recreation,Bike NYC,2019-06-29T11:00:00.000,Queens,Park,Annadale,Learn to Ride,Community Based Event,Sport,34.0,Children,Sharepoint,Play
+Urban Park Rangers,Fort Tryon Trust,2019-07-05T19:00:00.000,Manhattan,Park,Fort Tryon Park,Fire Fly PJ Party,Agency Produced Event,Nature,60.0,General Public,Sharepoint,
+Recreation,,2018-06-22T20:00:00.000,Queens,Park,John Golden,"MUTS "" Back To The Future """,Community Based Event,Mobile Unit,250.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-06T20:30:00.000,Bronx,Park,Vidalia Park,Hotel Transylvania 3: Summer Vacation,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Cohen,2018-06-22T20:30:00.000,Bronx,Park,St. James Park,Movies Under The Stars: Thor Ragnarok,Community Based Event,Mobile Unit,39.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-05T20:30:00.000,Bronx,Park,Williamsbridge Oval Park,Black Panther,Community Based Event,Mobile Unit,129.0,Teens;#Adults;#Young Adult;#Seniors;#Adaptive,Sharepoint,M.U.T.S
+Recreation,Jonathan Adone,2020-08-31T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick Up Pickleball,Local Event,Fitness,26.0,Seniors,Sharepoint,Summer 2020
+Recreation,CM Koo,2019-07-03T20:45:00.000,Queens,Park,Kissena Park,Spider-Man: Into the Spiderverse,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-23T13:00:00.000,Queens,Park,Beach 17th Street,Wizard of Oz Play,Community Based Event,Mobile Unit,81.0,General Public,Sharepoint,Play
+Recreation,Council Member Daneek Miller,2019-06-27T12:00:00.000,Queens,Park,Detective Keith L Williams Park,Family Day Event,Community Based Event,Family Festival,181.0,General Public,Sharepoint,Play
+Recreation,,2019-06-28T12:00:00.000,Queens,Park,Kissena Park,Family Day,Community Based Event,Mobile Unit,231.0,General Public,Sharepoint,Play
+Recreation,,2019-07-01T00:00:00.000,Brooklyn,Park,Maria Hernandez Park,Spider-Man:Into the Spider-Verse(2018),Community Based Event,Mobile Unit,305.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-03T00:00:00.000,Brooklyn,Park,Cooper Park,Creed 2(2018),Community Based Event,Mobile Unit,157.0,General Public,Sharepoint,M.U.T.S
+Recreation,Brooklyn Recreation,2019-07-10T20:45:00.000,Brooklyn,Park,Msgr. McGolrick Park,"Movie Night ""The Boy Who Would Be King""",Community Based Event,Mobile Unit,260.0,General Public,Sharepoint,M.U.T.S
+Recreation,FMCP Admin,2019-07-10T20:45:00.000,Queens,Park,Flushing Meadows Corona Park,Ralph Breaks the Internet,Community Based Event,Mobile Unit,250.0,General Public,Sharepoint,M.U.T.S
+Recreation,Brooklyn Recreation,2019-07-09T20:45:00.000,Brooklyn,Park,Sunset Park,"Movie Night ""Dumbo""",Community Based Event,Mobile Unit,1000.0,General Public,Sharepoint,M.U.T.S
+Recreation,Museum of Chinese Americans,2019-06-14T19:00:00.000,Manhattan,Park,Columbus Park,MUTS The Professor,Community Based Event,Mobile Unit,162.0,General Public,Sharepoint,M.U.T.S
+Recreation,MOCA Cinema,2018-06-22T18:00:00.000,Manhattan,Park,Columbus Park,Movies Under the Stars: Pushing Hands,Community Based Event,Mobile Unit,77.0,General Public,Sharepoint,Movies
+Recreation,,2019-06-12T19:00:00.000,Manhattan,Park,Marcus Garvey Park,MUTS Drumline,Community Based Event,Mobile Unit,85.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-21T20:30:00.000,Staten Island,Park,Willowbrook Park,Aquaman (2018),Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-14T20:30:00.000,Staten Island,Park,Clove Lakes Park,Mamma Mia: Here We Go Again (2018),Community Based Event,Mobile Unit,60.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-22T20:30:00.000,Staten Island,Park,CPL. Thompson Park,Captain America: The First Avenger (2011),Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-15T20:30:00.000,Staten Island,Park,Von Briesen Park,Mary Poppins (2018),Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-03T20:30:00.000,Staten Island,Park,Detective Russel Timoshenko Soccer Field,Ghostbusters (1984),Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-15T20:30:00.000,Staten Island,Park,Conference House Park,Thor (2011),Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,Cherry Orchard Festival,2019-06-28T20:30:00.000,Staten Island,Park,Wolfe's Pond Park,Moscow Does Not Believe in Tears (1980),Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-05T20:45:00.000,Staten Island,Park,Westerleigh Park,Ralph Breaks the Internet (2018),Community Based Event,Mobile Unit,70.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-07-14T12:00:00.000,Queens,Park,Bayswater Park,City of Water Day,Community Based Event,Mobile Unit,32.0,General Public,Sharepoint,Play
+Recreation,,2019-07-09T20:30:00.000,Bronx,Park,Williamsbridge Oval Park,Thor: Ragnarok,Community Based Event,Mobile Unit,170.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2019-07-11T20:30:00.000,Bronx,Park,Soundview Park,Hotel Transylvania 3: Summer Vactaion,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-10T20:30:00.000,Bronx,Park,Van Cortlandt Park,First Man,Community Based Event,Mobile Unit,40.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,Brooklyn Play Mobile,2019-06-26T10:00:00.000,Brooklyn,Park,Betsey Head Park,Morris Kopplman Early Childhood Center's Fun Day,Community Based Event,Mobile Unit,70.0,Tot;#Children,Sharepoint,Play
+Recreation,NYC Parks Summer Sports Experience,2019-07-09T11:00:00.000,Queens,Park,Detective Keith L Williams Park,Summer Sports Experience Sports Clinic: Soccer/ Flag Football,Community Based Event,Sport,70.0,Children;#Teens,Sharepoint,Tier 1
+Recreation,,2018-06-02T20:30:00.000,Bronx,Park,Virginia Park,Movies Under The Stars: Black Panther,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Movies
+Recreation,NYC Parks,2019-07-17T11:15:00.000,Queens,Park,Frank Principe Park,POP Up Site,Community Based Event,Mobile Unit,34.0,General Public,Sharepoint,Play
+Recreation,Councilman Cabrera,2018-06-25T20:30:00.000,Bronx,Park,St. James Park,Movies Under The Stars: Despicable Me 3,Community Based Event,Mobile Unit,132.0,General Public,Sharepoint,Movies
+Recreation,Council Member Kallos,2019-06-25T19:00:00.000,Manhattan,Park,St. Catherine's Park,MUTS: The Last Jedi,Community Based Event,Mobile Unit,195.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Ayala,2019-06-22T19:00:00.000,Manhattan,Park,Thomas Jefferson Park,MUTS: Aquaman,Community Based Event,Mobile Unit,220.0,General Public,Sharepoint,M.U.T.S
+Recreation,PBS,2019-06-26T19:00:00.000,Manhattan,Park,Washington Square Park,MUTS: Stonewall,Community Based Event,Mobile Unit,2100.0,General Public,Sharepoint,M.U.T.S
+Recreation,Museum of Chinese in America,2019-06-21T19:00:00.000,Manhattan,Park,Columbus Park,MUTS: The Joy Luck Club,Community Based Event,Mobile Unit,475.0,General Public,Sharepoint,M.U.T.S
+Recreation,AC&F,2019-06-27T19:00:00.000,Manhattan,Park,Washington Square Park,MUTS: Rebels on Pointe,Community Based Event,Mobile Unit,550.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-23T20:30:00.000,Bronx,Park,Crotona Park,Movies Under The Stars: Moana,Community Based Event,Mobile Unit,42.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-02T19:00:00.000,Manhattan,Park,Washington Square Park,MUTS: The Tango Lesson,Community Based Event,Mobile Unit,350.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-06-29T19:00:00.000,Manhattan,Park,Martin Luther King Jr. Park,MUTS: If Beale Street Could Talk,Community Based Event,Mobile Unit,189.0,General Public,Sharepoint,M.U.T.S
+Recreation,Musuem of Chinese in America,2019-06-28T19:00:00.000,Manhattan,Park,Columbus Park,"MUTS: Crazy, Rich Asians",Community Based Event,Mobile Unit,1223.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-12T19:00:00.000,Manhattan,Park,Morningside Park,MUTS: Mamma Mia! Here We Go Again,Community Based Event,Mobile Unit,450.0,General Public,Sharepoint,M.U.T.S
+Recreation,Image Nation,2019-07-10T19:00:00.000,Manhattan,Park,Jackie Robinson Park,MUTS: 42,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-16T21:00:00.000,Staten Island,Park,Von Briesen Park,Movies Under the Stars: Cat and the Hat,Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-19T19:00:00.000,Manhattan,Park,J. Hood Wright Park,MUTS: Black Panther,Community Based Event,Mobile Unit,155.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-16T21:00:00.000,Staten Island,Park,Bloomingdale Park,Movies Under the Stars: Black Panther,Community Based Event,Mobile Unit,135.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-20T19:00:00.000,Manhattan,Park,Tompkins Square Park,MUTS: How to Train Your Dragon 2: The Hidden World,Community Based Event,Mobile Unit,249.0,Children;#Young Adult;#General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-20T20:30:00.000,Bronx,Park,Harris Park,Nancy Drew,Community Based Event,Mobile Unit,30.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,CM Holden,2019-07-18T20:45:00.000,Queens,Park,Juniper Valley Park,The Kid Who Would Be King,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,NEQ Administrator,2019-07-12T20:45:00.000,Queens,Park,Crocheron Park,Captain Marvel,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,Rockaway Administrator,2019-07-19T20:45:00.000,Queens,Park,Broad Channel Park,Jurassic World: Fallen Kingdom,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-21T20:45:00.000,Queens,Park,Elmhurst Park,Bumblebee,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Perkins,2018-06-27T18:00:00.000,Manhattan,Park,St. Nicholas Park,Movies Under the Stars: Marshall,Community Based Event,Mobile Unit,42.0,General Public,Sharepoint,Movies
+Recreation,Councilman Cohen,2018-06-27T20:30:00.000,Bronx,Park,Seton Park,Movies Under The Stars: Jumanji Welcome To The Jungle,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Movies
+Recreation,Bike New York,2019-07-20T11:00:00.000,Queens,Park,Juniper Valley Park,Learn To Ride,Community Based Event,Performance,47.0,Teens;#Children,Sharepoint,Play
+Recreation,,2018-06-27T18:00:00.000,Manhattan,Park,J. Hood Wright Park,Movies Under the Stars: The Greatest Showman,Community Based Event,Mobile Unit,115.0,General Public,Sharepoint,Movies
+Recreation,Council Member Gibson,2018-06-29T20:30:00.000,Bronx,Park,Mullaly Park,Movies Under The Stars: Black Panther,Community Based Event,Mobile Unit,206.0,General Public,Sharepoint,Movies
+Recreation,,2018-06-28T20:30:00.000,Bronx,Park,Frank Frisch Field,Movies Under The Stars: Paddington 2,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Movies
+Recreation,NYC Parks,2019-07-24T11:00:00.000,Queens,Park,Queensbridge Park,POP Up Site,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,Play
+Recreation,Bronx River Alliance,2018-06-29T20:30:00.000,Bronx,Park,Concrete Plant Park,Movies Under The Stars: Spiderman Homecoming,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Movies
+Urban Park Rangers,National Parks Service,2019-07-25T13:30:00.000,Queens,Park,Big Egg Marsh Beach 88th Street,Kayaking and Wildlife Viewing,Agency Produced Event,Nature,27.0,General Public,Sharepoint,
+Recreation,Councilman Brannan,2019-06-07T00:00:00.000,Brooklyn,Park,Dyker Beach Park,Moana(2016),Community Based Event,Mobile Unit,168.0,General Public,Sharepoint,M.U.T.S
+Recreation,CM Vallone & NEQ Administrator,2019-07-25T20:45:00.000,Queens,Park,Macneil Park,Black Panther,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-07-26T11:00:00.000,Queens,Park,Queensbridge Park,POP Up Site,Community Based Event,Mobile Unit,56.0,General Public,Sharepoint,Play
+Recreation,,2019-07-26T20:30:00.000,Bronx,Park,Concrete Plant Park,Spider-Man: Into the Spider-Verse,Community Based Event,Mobile Unit,95.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2019-07-26T20:30:00.000,Bronx,Park,Macombs Dam Park,Spider-Man: Into the Spider-Verse,Community Based Event,Mobile Unit,125.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2018-05-05T20:00:00.000,Staten Island,Park,Clove Lakes Park,Movies Under the Stars: Coco,Community Based Event,Mobile Unit,175.0,General Public,Sharepoint,Movies
+Recreation,,2018-06-30T20:30:00.000,Bronx,Park,Macombs Dam Park,Movies Under The Stars: Black Panther,Community Based Event,Mobile Unit,203.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-13T00:00:00.000,Brooklyn,Park,Maria Hernandez Park,Teen Titans Go! To the Movies(2018),Community Based Event,Mobile Unit,302.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-10T00:00:00.000,Brooklyn,Park,Carroll Park,Pinocchio(1940),Community Based Event,Mobile Unit,156.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-15T00:00:00.000,Brooklyn,Park,Commodore Barry Park,Incredibles 2(2018),Community Based Event,Mobile Unit,205.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-16T00:00:00.000,Brooklyn,Park,Linden Park,Little(2019),Community Based Event,Mobile Unit,197.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-05-18T12:00:00.000,Bronx,Park,Hunts Point Riverside Park,Flotilla,Agency Produced Event,Mobile Unit,25.0,General Public,Sharepoint,Play
+Recreation,,2019-05-22T11:00:00.000,Bronx,Park,Orchard Beach,Orchard Beach Opening Ceremony,Agency Produced Event,Mobile Unit,55.0,General Public,Sharepoint,Play
+Recreation,,2019-06-01T11:00:00.000,Bronx,Park,Mullaly Park,Outdoors for Autism,Local Event,Mobile Unit,80.0,General Public,Sharepoint,Play
+Recreation,,2019-06-06T10:00:00.000,Bronx,Park,Poe Park,Youth Arts Festival,Agency Produced Event,Mobile Unit,84.0,General Public,Sharepoint,Play
+Recreation,Councilman Cabrera,2018-06-30T20:30:00.000,Bronx,Park,St. James Park,Movies Under The Stars: Black Panther,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-26T10:00:00.000,Manhattan,Park,J. Hood Wright Park,Summer Camp,Agency Produced Event,Mobile Unit,80.0,Children,Sharepoint,Play
+Recreation,Sinergia Inc.,2019-06-28T11:00:00.000,Manhattan,Park,Morningside Park,Play Mobile,Community Based Event,Mobile Unit,100.0,Teens;#Children;#Tot,Sharepoint,Play
+Recreation,,2018-06-28T20:00:00.000,Manhattan,Park,Chelsea Park,Movies Under the Stars: Captain Underpants: The First Epic Movie,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,Movies
+Recreation,Harlem Mother S.A.V.E.,2019-07-16T10:30:00.000,Manhattan,Park,St. Nicholas Park,Play Mobile,Community Based Event,Mobile Unit,80.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,Team HUNC Basketball,2019-07-13T11:00:00.000,Manhattan,Park,St. Nicholas Park,Play Mobile,Community Based Event,Mobile Unit,200.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,Harlem Mother S.A.V.E.,2019-07-17T14:00:00.000,Manhattan,Park,St. Nicholas Park,Play Mobile,Community Based Event,Mobile Unit,50.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2019-07-19T10:30:00.000,Manhattan,Park,Morningside Park,Play Mobile,Community Based Event,Mobile Unit,60.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2019-04-20T12:00:00.000,Manhattan,Park,Chelsea Park,Play Mobile,Community Based Event,Mobile Unit,100.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,HCCI,2019-07-20T10:00:00.000,Manhattan,Park,Jackie Robinson Park,Play Mobile,Community Based Event,Mobile Unit,50.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2019-07-08T10:30:00.000,Manhattan,Park,Morningside Park,Play Mobile,Community Based Event,Mobile Unit,150.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,MOCA Cinema,2018-06-29T17:00:00.000,Manhattan,Park,Columbus Park,Moca Cinema: The Last Dragon,Community Based Event,Mobile Unit,250.0,General Public,Sharepoint,Movies
+Recreation,,2019-06-28T16:00:00.000,Bronx,Park,Concrete Plant Park,Community Fridays,Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,Play
+Recreation,,2019-06-15T00:00:00.000,Bronx,Park,Poe Park,Hip Hop Family Day,Agency Produced Event,Mobile Unit,202.0,General Public,Sharepoint,Play
+Recreation,,2019-06-22T12:30:00.000,Bronx,Park,Williamsbridge Oval Park,Family Fitness Festival,Agency Produced Event,Mobile Unit,100.0,General Public,Sharepoint,Play
+Recreation,,2019-06-30T14:00:00.000,Bronx,Park,Tremont Park,Community Festival,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,Play
+Recreation,,2019-06-18T10:00:00.000,Bronx,Park,Melrose Commons Park,Melrose Commons Parks Ribbon Cutting,Agency Produced Event,Mobile Unit,35.0,General Public,Sharepoint,Play
+Recreation,,2019-07-24T20:00:00.000,Manhattan,Park,Stuyvesant Square Park,MUTS: Instant Family,Community Based Event,Mobile Unit,273.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-29T20:00:00.000,Manhattan,Park,Fort Tryon Park,Movies Under the Stars: Wonder Woman,Community Based Event,Mobile Unit,375.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-25T11:00:00.000,Manhattan,Park,Marcus Garvey Park,Iron Kid,Agency Produced Event,Sport,250.0,Children;#Teens,Sharepoint,
+Recreation,,2019-07-27T20:00:00.000,Manhattan,Park,Twenty-Four Sycamores Park,MUTS: Hotel Transylvania 3,Community Based Event,Mobile Unit,121.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-26T20:00:00.000,Manhattan,Park,Morningside Park,MUTS: Mary Poppins Returns,Community Based Event,Mobile Unit,278.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Kallos & Jazz Foundation of America,2018-06-29T17:00:00.000,Manhattan,Park,Andrew Haswell Green Park,Jazz Foundation Concert,Community Based Event,Performance,75.0,General Public,Sharepoint,AC&F
+Recreation,,2019-07-12T00:00:00.000,Bronx,Park,Van Nest Park,Commissioner's Programming,Agency Produced Event,Mobile Unit,15.0,General Public,Sharepoint,Play
+Recreation,,2019-07-13T11:00:00.000,Bronx,Park,Pelham Bay Park,Family Fun Day,Agency Produced Event,Mobile Unit,30.0,General Public,Sharepoint,Play
+Recreation,,2019-07-23T09:00:00.000,Bronx,Park,Van Cortlandt Park,Harmony Day,Community Based Event,Mobile Unit,600.0,General Public,Sharepoint,Play
+Recreation,Jazz Foundation of America,2018-06-30T18:00:00.000,Manhattan,Park,Marcus Garvey Park,Jazz Foundation Concert: Phil Young,Community Based Event,Performance,300.0,General Public,Sharepoint,Music
+Recreation,FMCP Administrator,2019-07-26T20:45:00.000,Queens,Park,Flushing Meadows Corona Park,Aquaman,Community Based Event,Mobile Unit,250.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-26T16:00:00.000,Bronx,Park,Concrete Plant Park,Community Fridays,Agency Produced Event,Mobile Unit,25.0,General Public,Sharepoint,Play
+Recreation,Forest Park and Highland Park Administrator,2019-07-29T20:45:00.000,Queens,Park,Highland Park,Black Panther,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Recreation,Rockaway Administrator,2019-07-28T20:45:00.000,Queens,Park,O'Donahue/Beach 17th St,Uncle Drew,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-27T13:00:00.000,Queens,Playground,Torsney/Lou Lodati Playground,"Ready, Set, Family at Lou Lodati Playground",Agency Produced Event,Fitness,60.0,General Public,Sharepoint,Fitness
+Recreation,,2019-07-30T20:30:00.000,Bronx,Park,Williamsbridge Oval Park,Incredibles 2,Community Based Event,Mobile Unit,160.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-27T20:45:00.000,Queens,Park,Rainey Park,Jurassic World: Fallen Kingdom,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-07-31T11:00:00.000,Queens,Park,Queensbridge Park,POP Up Site,Community Based Event,Mobile Unit,28.0,General Public,Sharepoint,Play
+Recreation,,2018-06-30T21:00:00.000,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: Jumanji Welcome to the Jungle,Community Based Event,Mobile Unit,80.0,General Public,Sharepoint,Movies
+Recreation,NYC Parks,2019-08-02T11:00:00.000,Queens,Park,Queensbridge Park,POP Up Site,Community Based Event,Mobile Unit,34.0,General Public,Sharepoint,Play
+Recreation,,2019-08-22T20:30:00.000,Bronx,Park,Haffen Park,Captain Marvel,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-29T21:00:00.000,Staten Island,Park,Willowbrook Park,Movies Under the Stars: Spiderman Homecoming,Community Based Event,Mobile Unit,230.0,General Public,Sharepoint,Movies
+Recreation,,2019-08-01T16:00:00.000,Bronx,Park,Tremont Park,Immigrant Affairs,Agency Produced Event,Mobile Unit,31.0,Teens,Sharepoint,Play
+Recreation,,2019-08-03T00:00:00.000,Brooklyn,Park,Marine Park,Missing Link (2019),Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-03T20:30:00.000,Bronx,Park,Ferry Point Park,Breaking In,Community Based Event,Mobile Unit,50.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2019-05-04T11:00:00.000,Bronx,Park,Pelham Bay Park,Learn To Ride,Agency Produced Event,Family Festival,5.0,Children,Sharepoint,
+Recreation,Councilwoman Rivera,2018-07-05T20:00:00.000,Manhattan,Park,Bellevue South Park,Movies Under the Stars: Bedtime Stories,Community Based Event,Mobile Unit,72.0,General Public,Sharepoint,Movies
+Recreation,Jonathan Adone,2020-08-31T13:30:00.000,Brooklyn,Park,McKinley Park,Fitness,Local Event,Fitness,7.0,Young Adult;#Adults,Sharepoint,Summer 2020
+Recreation,Summer Sports Experience,2019-08-06T11:00:00.000,Queens,Park,Detective Keith L Williams Park,SSE Sports Clinic visit,Community Based Event,Sport,30.0,Children;#Teens,Sharepoint,Tier 1
+Recreation,Summer Sports Experience,2019-08-03T10:00:00.000,Queens,Park,Kissena Park,SSE Flag Football Clinics,Community Based Event,Sport,51.0,Children;#Teens,Sharepoint,Tier 1
+Recreation,Councilman Brannan,2019-07-20T00:00:00.000,Brooklyn,Park,Dyker Beach Park,Aquaman(2018),Community Based Event,Mobile Unit,306.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-26T00:00:00.000,Brooklyn,Park,Sunset Park,The Lego Movie 2: The Second Part(2019),Community Based Event,Mobile Unit,296.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-25T00:00:00.000,Brooklyn,Park,Bushwick Inlet Park,Mamma Mia! Here We Go Again (2018),Community Based Event,Mobile Unit,343.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-30T21:00:00.000,Staten Island,Park,Schmul Park,Movies Under the Stars: A League Of their Own,Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-16T00:00:00.000,Brooklyn,Park,Brower Park,Spider-Man: Into the Spider-Verse (2018),Community Based Event,Mobile Unit,102.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-24T00:00:00.000,Brooklyn,Park,Cooper Park,Shazam!(2019),Community Based Event,Mobile Unit,217.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Duetsch,2019-07-21T00:00:00.000,Brooklyn,Park,Kelly Park,Wonder Park((2019),Community Based Event,Mobile Unit,232.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-27T00:00:00.000,Brooklyn,Park,Msgr. McGolrick Park,Dumbo(2019),Community Based Event,Mobile Unit,304.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-01T00:00:00.000,Brooklyn,Park,Herbert Von King Park,Berry Gordy's The Last Dragon (1985),Community Based Event,Mobile Unit,156.0,General Public,Sharepoint,M.U.T.S
+Recreation,Hip Hop Film Festival,2019-07-19T19:30:00.000,Brooklyn,Park,Prospect Park,Festival Friday: Hip Hop Film Festival - Boyz n the Hood (1991),Community Based Event,Mobile Unit,1055.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-30T00:00:00.000,Brooklyn,Park,Bushwick Inlet Park,A Star is Born(2018),Community Based Event,Mobile Unit,352.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-07-03T20:00:00.000,Manhattan,Park,White Park,Movies Under the Stars: The House,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,Movies
+Recreation,Forest Park & Highland Park Administrator,2019-08-05T20:30:00.000,Queens,Park,Forest Park,Carousel,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,FMCP Administrator,2019-08-02T20:30:00.000,Queens,Park,Flushing Meadows Corona Park,Captain Marvel,Community Based Event,Mobile Unit,300.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-07-07T20:00:00.000,Manhattan,Park,Thompkin Square Park,Movies Under the Stars: Hotel Transylvania 1,Community Based Event,Mobile Unit,475.0,General Public,Sharepoint,Movies
+Recreation,NYPD 113th Pct,2019-08-06T20:30:00.000,Queens,Park,Baisley Pond Park,Captain Marvel,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-08T00:00:00.000,Brooklyn,Park,Owl's Head Park,Star Wars: Episode IV - A New Hope (1977),Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-20T00:00:00.000,Brooklyn,Park,Shore Road Park,First Man (2018),Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-01T20:30:00.000,Queens,Park,Frank Principe Park,Spider-Man: Into the Spiderverse,Community Based Event,Mobile Unit,30.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-24T00:00:00.000,Brooklyn,Park,Saratoga Park,Teen Titans Go! To the Movie (2018),Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-07-25T00:00:00.000,Brooklyn,Park,Herbert Von King Park,Sorry to Bother You (2018),Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-03T00:00:00.000,Brooklyn,Park,Cooper Park,Hotel Transylvania 3 (2018),Community Based Event,Mobile Unit,275.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Gibson,2018-07-06T20:30:00.000,Bronx,Park,Claremont Park,Movies Under The Stars: Despicable Me 3,Community Based Event,Mobile Unit,31.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-27T00:00:00.000,Brooklyn,Park,Owl's Head Park,X-Men: Apocalypse (2016),Community Based Event,Mobile Unit,550.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-08-09T10:30:00.000,Queens,Park,Queensbridge Park,Pop Up Site,Community Based Event,Mobile Unit,71.0,General Public,Sharepoint,Play
+Urban Park Rangers,NYPD,2019-08-06T16:00:00.000,Staten Island,Park,Midland Beach,National Night Out Against Crime,Community Based Event,Family Festival,1000.0,Children;#Adults;#Teens;#Young Adult;#Tot,Sharepoint,
+Recreation,,2019-08-09T00:00:00.000,Brooklyn,Park,Brower Park,Creed II (2018),Community Based Event,Mobile Unit,115.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-02T00:00:00.000,Brooklyn,Park,Msgr. McGolrick Park,Moonrise Kingdom (2012),Community Based Event,Mobile Unit,400.0,General Public,Sharepoint,M.U.T.S
+Recreation,Play Mobile/Miriam Garay,2019-08-06T12:00:00.000,Brooklyn,Park,Fort Greene Park,88th Precinct Council's National Night Out,Community Based Event,Mobile Unit,112.0,General Public,Sharepoint,Play
+Recreation,,2018-07-05T20:30:00.000,Bronx,Park,Bronx Park,Movies Under The Stars: Star Wars The Last Jedi,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,Movies
+Recreation,,2019-08-09T00:00:00.000,Brooklyn,Park,Bushwick Inlet Park,Scott Pilgrim vs. the World (2010),Community Based Event,Mobile Unit,213.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-06T18:00:00.000,Manhattan,Park,Washington Square Park,Strictly Tango,Agency Produced Event,Arts/Culture,150.0,General Public,Sharepoint,Dance
+Recreation,,2019-08-10T00:00:00.000,Brooklyn,Park,Msgr. McGolrick Park,UglyDolls (2019),Community Based Event,Mobile Unit,235.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-08T11:00:00.000,Manhattan,Park,Riverside Park,Adventure Race,Agency Produced Event,Fitness,285.0,Children;#Teens,Sharepoint,Fitness
+Recreation,,2019-08-11T00:00:00.000,Brooklyn,Park,Commodore Barry Park,Little (2019),Community Based Event,Mobile Unit,325.0,General Public,Sharepoint,M.U.T.S
+Recreation,Borough Presdident Melinda Katz,2019-08-04T17:00:00.000,Queens,Park,Hunter's Point South Park,Katz Concert Series,Community Based Event,Performance,325.0,General Public,Sharepoint,Music
+Recreation,Borough President Melinda Katz,2019-07-28T17:00:00.000,Queens,Park,Rockaway Beach 94 Street Performance Area,Katz Concert Series,Agency Produced Event,Performance,500.0,Children;#Young Adult;#Adults;#Teens;#Seniors;#Adaptive;#General Public,Sharepoint,Music
+Recreation,Borough President Melinda Katz,2019-08-11T17:00:00.000,Queens,Park,Fort Totten Park,Katz Concert Series,Agency Produced Event,Performance,250.0,General Public,Sharepoint,Music
+Recreation,Queensboro Dance Festival,2019-08-10T14:00:00.000,Queens,Park,Forest Park,Queensboro Dance Festival,Agency Produced Event,Arts/Culture,150.0,General Public,Sharepoint,AC&F
+Recreation,Borough President Melinda Katz,2019-07-21T17:00:00.000,Queens,Park,Springfield Park,Katz Conccert Series,Agency Produced Event,Performance,225.0,Young Adult;#Adults;#Teens;#Children,Sharepoint,Music
+Recreation,,2018-07-06T20:00:00.000,Manhattan,Park,Harlem Art Park,Movies Under the Stars: Southside with You,Community Based Event,Mobile Unit,76.0,General Public,Sharepoint,Movies
+Public Programs,,2019-07-12T20:30:00.000,Staten Island,Park,Willowbrook Park,Venom (2018),Community Based Event,Mobile Unit,70.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-07-27T20:00:00.000,Staten Island,Park,Great Kills Park,Avengers: Ague of Ultron (2015),Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-12T00:00:00.000,Brooklyn,Park,Leif Ericson Park,Doctor Strange (2016),Community Based Event,Mobile Unit,173.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-10T20:30:00.000,Bronx,Park,Crotona Park,Wonder Park,Community Based Event,Mobile Unit,120.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-07-09T20:30:00.000,Staten Island,Park,Father Macris Park,How to Train Your Dragon: Hidden World (2018),Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,Bronx Works,2019-08-10T11:00:00.000,Bronx,Park,St. Mary's Park,Second Saturdays @ St. Mary's,Community Based Event,Mobile Unit,15.0,Tot;#Children,Sharepoint,Play
+Public Programs,,2019-07-23T20:30:00.000,Staten Island,Park,Clove Lakes Park,Crazy Rich Asians (2018),Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-09T20:30:00.000,Bronx,Park,Pelham Bay Park,Ralph Breaks the Internet,Community Based Event,Mobile Unit,90.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-07-19T20:30:00.000,Staten Island,Park,Midland Field,Shazam! (2019),Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-07-25T20:30:00.000,Staten Island,Park,Detective Russel Timoshenko Soccer Field,Ferris Bueller's Day Off (1986),Community Based Event,Mobile Unit,80.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-07-26T20:30:00.000,Staten Island,Park,Seaside Wildlife Nature Park,Christopher Robin (2018),Community Based Event,Mobile Unit,60.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-08-15T11:00:00.000,Queens,Park,Queensbridge Park,Pop Up Site,Community Based Event,Mobile Unit,36.0,General Public,Sharepoint,Play
+Recreation,,2018-07-10T18:00:00.000,Manhattan,Park,Washington Square Park,Strictly Tango,Community Based Event,Performance,275.0,General Public,Sharepoint,Dance
+Recreation,Forest Park and Highland Park Administrator,2019-08-12T20:30:00.000,Queens,Park,Highland Park,Aquaman,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,Immac Summer Program,2019-08-14T11:00:00.000,Queens,Park,Astoria Park,Summer Camp Celebration,Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,Play
+Recreation,,2019-08-15T00:00:00.000,Brooklyn,Park,Coffey Park,Star Wars: Return of the Jedi (1983),Community Based Event,Mobile Unit,105.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-05-11T20:00:00.000,Brooklyn,Park,Owl's Head Park,"Movies Under the Stars ""AOBFF"" Short Independent Films",Community Based Event,Mobile Unit,185.0,General Public,Sharepoint,Movies
+Recreation,Summer sports experience,2019-08-10T10:00:00.000,Queens,Park,Kissena Park,Flag football clinic,Community Based Event,Sport,72.0,Children;#Teens,Sharepoint,Tier 1
+Recreation,,2018-05-04T20:00:00.000,Brooklyn,Park,Sunset Park,Movies Under the Stars,Community Based Event,Mobile Unit,220.0,General Public,Sharepoint,Movies
+Recreation,Councilman BRANNAN,2019-08-17T20:00:00.000,Brooklyn,Park,Bensonhurst Park,Avengers: Endgame (2019),Community Based Event,Mobile Unit,1100.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-11T00:00:00.000,Manhattan,Park,Randall's Island Park,Crazy Rich Asians(2019),Community Based Event,Mobile Unit,419.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-05T00:00:00.000,Brooklyn,Park,McCarren Park,Fantastic Beasts: Crimes of the Grindelwald(2018),Community Based Event,Mobile Unit,248.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-15T00:00:00.000,Brooklyn,Park,Bushwick Inlet Park,Blade Runner(1982),Community Based Event,Mobile Unit,210.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-17T00:00:00.000,Brooklyn,Park,Sunset Park,X-Men: Dark Phoenix(2019),Community Based Event,Mobile Unit,802.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-05-05T20:00:00.000,Brooklyn,Park,Maria Hernandez Park,"Movies Under the Stars "" Coco""",Community Based Event,Mobile Unit,350.0,General Public,Sharepoint,Movies
+Recreation,Council Member Adrienne Adams,2019-08-18T04:00:00.000,Queens,Park,Baisley Pond Park,Southern Queens GospelFest,Community Based Event,Performance,450.0,General Public,Sharepoint,Music
+Recreation,Borough President Melinda Katz,2019-08-18T05:00:00.000,Queens,Park,Cambria Heights,Katz Concert Series,Community Based Event,Performance,300.0,General Public,Sharepoint,Music
+Recreation,Forest Park and Highland Park Administrator,2019-08-19T20:15:00.000,Queens,Park,Forest Park,Spider-Man: Into the Spiderverse,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,M.U.T.S
+Recreation,NEQ Administrator,2019-08-16T20:30:00.000,Queens,Park,Crocheron Park,Lego Movie 2: The Second Part,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,Summer Sports Experience,2019-08-17T10:00:00.000,Queens,Park,Kissena Park,NYC Parks Flag Football Clinic (SSE),Community Based Event,Sport,72.0,Teens;#Children,Sharepoint,Tier 1
+Recreation,,2018-05-11T20:00:00.000,Brooklyn,Park,McCarren Park,"Movies Under the Stars ""Lady Bird""",Community Based Event,Mobile Unit,350.0,General Public,Sharepoint,Movies
+Recreation,,2019-08-14T13:00:00.000,Bronx,Park,Williamsbridge Oval Park,SSE Jamboree,Agency Produced Event,Mobile Unit,500.0,General Public,Sharepoint,Play
+Recreation,,2018-05-20T20:00:00.000,Brooklyn,Park,Fort Greene Park,Movies Under the Stars : Sparkle,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Movies
+Recreation,NYC PARKS,2019-08-09T13:00:00.000,Staten Island,Park,CPL. Thompson Park,Playmobile,Local Event,Mobile Unit,43.0,Children;#Young Adult,Sharepoint,Play
+Recreation,NYC PARKS,2019-08-13T14:00:00.000,Staten Island,Park,CPL. Thompson Park,Playmobile,Local Event,Mobile Unit,37.0,Children;#Young Adult;#Adults,Sharepoint,Play
+Recreation,NYC PARKS,2019-07-24T15:00:00.000,Staten Island,Park,CPL. Thompson Park,Playmobile,Local Event,Mobile Unit,29.0,Adults;#Young Adult,Sharepoint,Play
+Recreation,NYC PARKS,2019-07-12T11:30:00.000,Staten Island,Park,CPL. Thompson Park,Playmobile,Local Event,Mobile Unit,45.0,Children;#Tot;#Young Adult;#Adults,Sharepoint,Play
+Recreation,,2018-05-25T20:00:00.000,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Moana,Community Based Event,Mobile Unit,1000.0,General Public,Sharepoint,Movies
+Recreation,US Open,2019-08-21T10:30:00.000,Queens,Park,Fresh Meadows Park,US Open,Community Based Event,Mobile Unit,34.0,General Public,Sharepoint,Play
+Urban Park Rangers,Freshkills Alliance,2019-08-24T14:00:00.000,Staten Island,Park,Freshkills Park,Freshkills Kayak Tour,Agency Produced Event,Nature,15.0,General Public,Sharepoint,
+Recreation,NYC Parks,2019-08-24T11:00:00.000,Queens,Park,Queensbridge Park,Pop Up Site,Community Based Event,Mobile Unit,77.0,General Public,Sharepoint,Play
+Recreation,,2018-05-20T20:00:00.000,Brooklyn,Park,Coffey Park,Movies Under the Stars : Jumanji (2017),Community Based Event,Mobile Unit,175.0,General Public,Sharepoint,Movies
+Recreation,,2019-08-24T13:00:00.000,Queens,Park,Corona Golf,"Ready, Set, Family at Corona Golf Playground",Local Event,Fitness,56.0,General Public,Sharepoint,Fitness
+Recreation,,2019-08-26T19:45:00.000,Brooklyn,Park,Cooper Park,Tomb Raider (2018),Community Based Event,Mobile Unit,63.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Daneek Miller,2019-08-17T12:00:00.000,Queens,Park,Wayanda Park,6th Annual Family Fun Day & Motown Revue,Community Based Event,Family Festival,100.0,General Public,Sharepoint,Play
+Recreation,Queensboro Dance Festival,2019-08-24T14:00:00.000,Queens,Park,Windmuller Park,Queensboro Dance Festival at Windmuller Park,Local Event,Arts/Culture,120.0,General Public,Sharepoint,AC&F
+Recreation,,2018-05-25T20:00:00.000,Brooklyn,Park,Prospect Park,Movies Under the Stars : Festival Friday The Seventh Seal,Community Based Event,Mobile Unit,250.0,General Public,Sharepoint,Movies
+Recreation,,2019-08-15T20:30:00.000,Bronx,Park,Tremont Park,Incredibles 2,Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-05-25T20:00:00.000,Brooklyn,Park,Bensonhurst Park,Movies Under the Stars : Jumanji (2017),Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,Movies
+Recreation,,2019-08-17T20:30:00.000,Bronx,Park,Ferry Point Park,I Could Only Imagine,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-01T20:00:00.000,Brooklyn,Park,Leif Ericson Park,Movies Under the Stars : Lego Ninjago Movie,Community Based Event,Mobile Unit,250.0,General Public,Sharepoint,Movies
+Recreation,Borough President Katz,2019-08-25T17:00:00.000,Queens,Park,ODonahue Park -Rockaway beach,Katz Concert Series,Agency Produced Event,Performance,200.0,General Public;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,Music
+Recreation,,2019-08-27T19:45:00.000,Brooklyn,Park,Commodore Barry Park,Uncle Drew (2018),Community Based Event,Mobile Unit,42.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-01T20:00:00.000,Staten Island,Park,Seaside Wildlife Nature Park,Star Wars: Ep. Iv A New Hope (1977),Community Based Event,Mobile Unit,65.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-03T20:00:00.000,Staten Island,Park,Clove Lakes Park,Bohemian Rhapsody (2019),Community Based Event,Mobile Unit,80.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-15T20:00:00.000,Staten Island,Park,Father Macris Park,Star Wars: Ep. VI Return of the Jedi (1983),Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-02T20:30:00.000,Staten Island,Park,Willowbrook Park,Ant Man (2015),Community Based Event,Mobile Unit,60.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-06T20:30:00.000,Staten Island,Park,Westerleigh Park,Hotel Translyvania 3: Summer Vacation,Community Based Event,Mobile Unit,80.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-09T20:00:00.000,Staten Island,Park,CPL. Thompson Park,Pokemon Detective Pikachu (2019),Community Based Event,Mobile Unit,55.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-10T20:00:00.000,Staten Island,Park,Midland Field,The Goonies (1985),Community Based Event,Mobile Unit,70.0,General Public,Sharepoint,M.U.T.S
+Recreation,Ocean Breeze Recreation Staff,2020-09-19T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,12.0,Children;#Young Adult;#General Public,Sharepoint,Summer 2020
+Public Programs,,2019-08-17T20:00:00.000,Staten Island,Park,Cedar Grove Park,Whatever Happened to Baby Jane (1962),Community Based Event,Mobile Unit,10.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-20T20:00:00.000,Staten Island,Park,Willowbrook Park,Black Panther (2018),Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2020-07-19T10:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Beach Soccer & Food Truck Festival,Community Based Event,Sport,0.0,Young Adult;#Children;#Adults;#Teens;#Adaptive;#General Public,Sharepoint,
+Public Programs,,2019-08-16T20:00:00.000,Staten Island,Park,Clove Lakes Park,Thor: Ragnarok (2019),Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2020-05-16T10:00:00.000,Staten Island,Park,Ocean Breeze Park,,Community Based Event,Academic/Out of School time,0.0,Children;#Young Adult;#Teens;#Adaptive;#General Public,Sharepoint,
+Public Programs,,2019-08-23T20:00:00.000,Staten Island,Park,Midland Field,Avengers: Infinity War (2018),Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-24T20:00:00.000,Staten Island,Park,Lemon Creek Park,Spiderman: Into the Spider-Verse (2019),Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-03T20:00:00.000,Brooklyn,Park,Manhattan Beach Parking Lot,Drive In Movie,Community Based Event,Mobile Unit,195.0,General Public,Sharepoint,Movies
+Recreation,"CM Vallone, Friends of Francis Lewis Park, We Love Whitestone",2019-08-23T20:00:00.000,Queens,Park,Francis Lewis Park,Avengers: Endgame,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-27T20:00:00.000,Staten Island,Park,Von Briesen Park,Ant Man vs. Wasp (2019),Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,M.U.T.S
+Recreation,Forest Park and Highland Park Administrator,2019-08-26T20:00:00.000,Queens,Park,Highland Park,Bohemian Rhapsody,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-25T20:00:00.000,Queens,Park,Wayanda Park,Avengers: Endgame,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,M.U.T.S
+Public Programs,Bike New York,2019-08-24T11:00:00.000,Queens,Playground,Addabbo Playground,Learn to Ride,Community Based Event,Sport,65.0,Children,Sharepoint,Play
+Recreation,,2019-08-29T19:45:00.000,Brooklyn,Park,Herbert Von King Park,Spider-Man: Into the Spider Verse (2018),Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,ABOFF,2018-06-03T20:00:00.000,Brooklyn,Park,Sunset Park,Movies Under the Stars : ABOFF Short Films,Community Based Event,Mobile Unit,60.0,General Public,Sharepoint,Movies
+Recreation,FMCP Administrator,2019-08-21T20:00:00.000,Queens,Park,Flushing Meadows Corona Park,Spider-Man: Into the Spiderverse,Community Based Event,Mobile Unit,35.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-08-10T00:00:00.000,Queens,Park,Brookville Park,Back to School Event,Community Based Event,Family Festival,300.0,Children;#Adults;#Young Adult;#Teens;#Adaptive;#Seniors;#General Public,Sharepoint,Play
+Recreation,Summer Sports Experience,2019-08-24T10:00:00.000,Queens,Park,Kissena Park,Flag Football Clinics,Community Based Event,Sport,64.0,Teens;#Children,Sharepoint,Tier 1
+Recreation,,2019-08-15T11:00:00.000,Manhattan,Park,J. Hood Wright Park,Summer Camp Finale,Agency Produced Event,Family Festival,600.0,Children;#Teens,Sharepoint,
+Recreation,Strictly Tango NYC,2019-08-13T18:00:00.000,Manhattan,Park,Washington Square Park,Tango in the Park,Agency Produced Event,Arts/Culture,150.0,General Public,Sharepoint,Dance
+Recreation,,2019-08-16T19:00:00.000,Manhattan,Park,East River Park,Movies Under the Stars: Captain Marvel,Community Based Event,Mobile Unit,382.0,General Public,Sharepoint,M.U.T.S
+Recreation,Strictly Tango NYC,2019-08-20T18:00:00.000,Manhattan,Park,Washington Square Park,Tango in the Park,Agency Produced Event,Arts/Culture,150.0,General Public,Sharepoint,Dance
+Recreation,,2019-08-22T18:00:00.000,Manhattan,Park,Marcus Garvey Park,Soul Train Celebration and Tribute to Aretha Franklyn,Community Based Event,Performance,3450.0,General Public,Sharepoint,Music
+Recreation,Image Nation,2019-08-23T19:00:00.000,Manhattan,Park,St. Nicholas Park,Movies Under the Stars: Decades of Fire,Community Based Event,Mobile Unit,112.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-05-04T19:00:00.000,Staten Island,Park,Father Macris Park,Movies Under the Stars: Angels In the Outfield,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,Movies
+Recreation,Strictly Tango NYC,2019-08-27T18:00:00.000,Manhattan,Park,Washington Square Park,Tango in the Park,Agency Produced Event,Arts/Culture,180.0,General Public,Sharepoint,Dance
+Recreation,Councilman BRANNAN,2019-08-30T19:45:00.000,Brooklyn,Park,McKinley Park,Wonder Woman (2017),Community Based Event,Mobile Unit,146.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Kallos,2019-08-24T19:00:00.000,Manhattan,Park,John Jay Park,Movies Under the Stars: Captain Marvel,Community Based Event,Mobile Unit,285.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-08T20:00:00.000,Brooklyn,Park,Fort Greene Park,Movies Under the Stars : Bruce!!,Community Based Event,Mobile Unit,120.0,General Public,Sharepoint,Movies
+Urban Park Rangers,NYC Wildflower Week; Office of Congresswoman Alexandria Ocasio Cortez,2019-08-31T11:00:00.000,Bronx,Park,Pelham Bay Park,Pelham Bay Nature Day,Community Based Event,Family Festival,200.0,General Public,Sharepoint,
+Urban Park Rangers,Staten Island Zoo,2019-08-17T00:00:00.000,Staten Island,Park,Blue Heron Park,Staten Island Bio Blitz,Agency Produced Event,Nature,26.0,General Public,Sharepoint,
+Urban Park Rangers,Staten Island Zoo,2019-08-16T17:00:00.000,Staten Island,Park,Blue Heron Park,Staten Island Bio Blitz,Agency Produced Event,Nature,26.0,General Public,Sharepoint,
+Recreation,,2019-08-25T00:00:00.000,Brooklyn,Park,Cadman Plaza Park,Moana(2016),Community Based Event,Mobile Unit,304.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-30T00:00:00.000,Brooklyn,Park,Msgr. McGolrick Park,Detective Pikachu(2019),Community Based Event,Mobile Unit,312.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-29T00:00:00.000,Brooklyn,Park,Carroll Park,Sisterhood of the Travelling Pants(2005),Community Based Event,Mobile Unit,76.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-27T00:00:00.000,Brooklyn,Park,McCarren Park,Skate Kitchen(2018),Community Based Event,Mobile Unit,237.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-03T19:30:00.000,Brooklyn,Park,Maria Hernandez Park,Spider-Man: Into the Spider Verse (2018),Community Based Event,Mobile Unit,154.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-30T19:00:00.000,Manhattan,Park,J. Hood Wright Park,Movies Under the Stars: Honey,Community Based Event,Mobile Unit,95.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-31T19:45:00.000,Queens,Park,Roy Wilkins Park,Uncle Drew,Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-09T20:00:00.000,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Ferris Bueller's Day Off,Community Based Event,Mobile Unit,240.0,General Public,Sharepoint,Movies
+Recreation,Council Member Rivera,2019-08-30T19:00:00.000,Manhattan,Park,Bellevue South Park,Movies Under the Stars: Avengers: Endgame,Community Based Event,Mobile Unit,289.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Daneek Miller,2019-08-31T12:00:00.000,Queens,Park,St. Albans Park,Summer Festival at St. Albans Park,Community Based Event,Family Festival,175.0,General Public,Sharepoint,Play
+Recreation,,2019-09-07T19:45:00.000,Brooklyn,Park,Cooper Park,Incredibles 2 (2018),Community Based Event,Mobile Unit,130.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,NYPD,2019-08-06T15:00:00.000,Manhattan,Park,Highbridge Park,National Night Out Against Crime,Community Based Event,Family Festival,180.0,General Public,Sharepoint,
+Recreation,,2019-08-23T20:30:00.000,Bronx,Park,Tremont Park,Incredibles 2,Community Based Event,Mobile Unit,90.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-05T19:45:00.000,Brooklyn,Park,Bushwick Inlet Park,Rushmore (1998),Community Based Event,Mobile Unit,146.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-24T20:30:00.000,Bronx,Park,Melrose Commons Park,Coco,Community Based Event,Mobile Unit,85.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-16T20:00:00.000,Brooklyn,Park,Amersfort Park,Movies Under the Stars : Jumanji (2017)),Community Based Event,Mobile Unit,300.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-08T00:00:00.000,Manhattan,Park,Randall's Island Park,Creed 2 (2018),Community Based Event,Mobile Unit,126.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-27T20:30:00.000,Bronx,Park,Bill Rainey,Spider-Man: Into the Spider-Verse,Community Based Event,Mobile Unit,45.0,Children;#Young Adult;#Adults;#Teens;#Adaptive;#General Public;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2019-08-30T20:30:00.000,Bronx,Park,Concrete Plant Park,Incredibles 2,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-16T20:00:00.000,Brooklyn,Park,Red Hook Park,Movies Under the Stars : Black Panther,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Movies
+Recreation,,2018-06-22T21:00:00.000,Brooklyn,Park,Fort Greene Park,Movies Under the Stars : Art of the Score,Community Based Event,Mobile Unit,700.0,General Public,Sharepoint,Movies
+Recreation,Project FIND Aid for the Aged,2019-08-31T12:00:00.000,Manhattan,Park,Hell's Kitchen Park,Harborview Family Day,Community Based Event,Mobile Unit,63.0,General Public,Sharepoint,Play
+Recreation,CM Menchaca,2018-06-15T20:00:00.000,Brooklyn,Park,Sunset Park,Movies Under the Stars : Guardians of the Galaxy 2,Community Based Event,Mobile Unit,650.0,General Public,Sharepoint,Movies
+Recreation,Summer sports experience,2019-09-07T10:00:00.000,Queens,Park,Kissena Park,Flag Football Clinic SSE,Community Based Event,Sport,106.0,Teens;#Children,Sharepoint,Tier 1
+Recreation,NYC Parks and Recreation,2019-09-07T08:00:00.000,Queens,Park,Juniper Valley Park,Queens Bocce tournament,Tournament/Competition,Sport,80.0,Adults;#Seniors;#General Public,Sharepoint,Tier 3
+Recreation,NYC Parks and Recreation,2019-08-24T10:00:00.000,Manhattan,Park,Thomas Jefferson Park,Track & Field Meet,Tournament/Competition,Sport,130.0,Children;#Teens;#Seniors,Sharepoint,Tier 2
+Recreation,,2019-09-13T19:15:00.000,Brooklyn,Park,Saratoga Park,The Sun is Also a Star (2019),Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,Westerleigh Coalition,2019-09-14T11:30:00.000,Staten Island,Park,Westerleigh Park,Westerleigh Folk Festival,Community Based Event,Family Festival,125.0,General Public,Sharepoint,
+Recreation,,2019-09-08T19:30:00.000,Brooklyn,Park,Carroll Park,Won't You be My Neighbor (2018),Community Based Event,Mobile Unit,46.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,Freshkills Alliance,2019-09-15T11:00:00.000,Staten Island,Park,Freshkills Park,Discovery Day,Agency Produced Event,Nature,400.0,General Public,Sharepoint,
+Recreation,,2018-05-11T20:00:00.000,Staten Island,Park,Cedar Grove Park,Movies Under the Stars: Sing,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Movies
+Recreation,,2018-06-22T21:00:00.000,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Wonder Woman,Community Based Event,Mobile Unit,300.0,General Public,Sharepoint,Movies
+Recreation,,2019-09-14T19:15:00.000,Brooklyn,Park,Maria Hernandez Park,Pelo Malo: Bad Hair (2013),Community Based Event,Mobile Unit,169.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2020-09-09T10:00:00.000,Bronx,Park,St. Mary's Park,skills & drills,Community Based Event,Sport,1.0,Children,Sharepoint,Summer 2020
+Recreation,Council Member Daneek Miller,2019-09-14T12:00:00.000,Queens,Park,Detective Keith L Williams Park,Family Festival at Detective Keith Williams Park,Community Based Event,Family Festival,250.0,General Public,Sharepoint,Play
+Recreation,,2019-09-04T19:00:00.000,Manhattan,Park,Frederick Johnson Park,MUTS: Ralph Breaks the Internet,Community Based Event,Mobile Unit,56.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-03T19:00:00.000,Manhattan,Park,Sara D. Roosevelt Park,MUTS: Teen Titans Go! To the Movies,Community Based Event,Mobile Unit,125.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-10T19:00:00.000,Manhattan,Park,Harlem Art Park,MUTS: Wonder Park,Community Based Event,Mobile Unit,85.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-23T20:00:00.000,Brooklyn,Park,Dyker Beach Park,Movies Under the Stars : Nut Job 2,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Movies
+Recreation,,2019-09-07T19:00:00.000,Manhattan,Park,St. Vartan Park,MUTS: How to Train Your Dragon: The Hidden World,Community Based Event,Mobile Unit,202.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-29T20:00:00.000,Staten Island,Park,Wolfe's Pond Park,Star Wars: Episode II Attack of the Clones,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-09-07T19:30:00.000,Staten Island,Park,Detective Russel Timoshenko Soccer Field,Avengers: End Game (2019),Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-31T20:00:00.000,Staten Island,Park,Detective Russel Timoshenko Soccer Field,Star Wars: Episode III Revenge of the Sith,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,M.U.T.S
+Public Programs,,2019-08-30T20:00:00.000,Staten Island,Park,CPL. Thompson Park,Creed II (2019),Community Based Event,Mobile Unit,15.0,General Public,Sharepoint,M.U.T.S
+Public Programs,Staten Island Arts,2019-09-14T19:30:00.000,Staten Island,Park,Tappen Park,The Muppet Movie (1979),Community Based Event,Mobile Unit,120.0,General Public,Sharepoint,M.U.T.S
+Public Programs,CM Joseph Borelli,2019-09-13T19:30:00.000,Staten Island,Park,Wolfe's Pond Park,Dumbo (2019),Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-29T00:00:00.000,Brooklyn,Park,McCarren Park,Movies Under the Stars : Smiles on a Summer Night,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,Movies
+Recreation,,2019-08-03T19:00:00.000,Manhattan,Park,Annunciation Park,MUTS: Crazy Rich Asians,Community Based Event,Mobile Unit,289.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-08-02T19:00:00.000,Manhattan,Park,Morningside Park,MUTS: Second Act,Community Based Event,Mobile Unit,280.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-09-11T09:00:00.000,Manhattan,Park,W. 146th Street Bradhurst Ave. Jackie Robinson Park,Activities for the Kids,Agency Produced Event,Mobile Unit,8.0,Children,Sharepoint,Play
+Recreation,Play Mobile/Miriam Garay,2019-09-13T10:00:00.000,Brooklyn,Park,Wingate Park,Book Reading Series,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Play
+Recreation,,2019-09-15T00:00:00.000,Brooklyn,Park,Linden Park,Teen Titans Go! To the Movies(2018),Community Based Event,Mobile Unit,35.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2021-08-10T10:00:00.000,Queens,Park,Alley Pond Park,Mobile Unit Pop-Up,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Play
+Recreation,,2019-09-13T00:00:00.000,Brooklyn,Park,Herbert Von King Park,Fast Color(2019),Community Based Event,Mobile Unit,76.0,General Public,Sharepoint,M.U.T.S
+Recreation,Play Mobile/Miriam Garay,2019-09-15T13:00:00.000,Brooklyn,Park,Brower Park,One Crown Heights Festival,Community Based Event,Mobile Unit,300.0,General Public,Sharepoint,Play
+Recreation,7th precinct Community Affairs and New Life of NYC,2019-09-19T16:00:00.000,Manhattan,Park,John V. Lindsay East River Park,Cops and Kids Softball Game,Tournament/Competition,Sport,26.0,Teens;#Young Adult;#Adults,Sharepoint,Tier 2
+Recreation,,2019-09-19T19:00:00.000,Brooklyn,Park,McCarren Park,Friday Night Lights (2004),Community Based Event,Mobile Unit,9.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-07T00:00:00.000,Brooklyn,Park,Bensonhurst Park,Secret Life of Pets 2(2019),Community Based Event,Mobile Unit,394.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-19T14:30:00.000,Bronx,Park,Pelham Bay Park,Community Engagement,Agency Produced Event,Mobile Unit,30.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2018-06-24T20:00:00.000,Brooklyn,Park,Bensonhurst Park,Movies Under the Stars : Karate Kid,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,Movies
+Recreation,Hellenic Society,2019-09-08T19:45:00.000,Queens,Park,Rainey Park,My Big Fat Greek Wedding,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-08T00:00:00.000,Manhattan,Park,Randall's Island Park,Creed II(2018),Community Based Event,Mobile Unit,126.0,General Public,Sharepoint,M.U.T.S
+Recreation,Forest Park and Highland Park Admin,2019-09-13T19:30:00.000,Queens,Park,Forest Park,Caddyshack,Community Based Event,Mobile Unit,30.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,CM Barry Grodenchik,2019-09-20T10:00:00.000,Queens,Park,Alley Pond Park,Senior Nature Walk,Community Based Event,Nature,37.0,Seniors,Sharepoint,Fitness
+Urban Park Rangers,Freshkills Alliance,2019-09-21T12:30:00.000,Staten Island,Park,Freshkills Park,Freshkills Kayak Tour,Agency Produced Event,Nature,22.0,Adults,Sharepoint,
+Recreation,Carl's Butterflies,2019-09-21T11:00:00.000,Queens,Park,Rufus King Park,Back to School Event,Community Based Event,Mobile Unit,56.0,General Public,Sharepoint,Play
+Urban Park Rangers,Van Cortlandt House Museum,2019-09-21T11:00:00.000,Bronx,Park,Van Cortlandt Park,Van Cortlandt House Museum Second Annual History and Culture Fair,Local Event,Arts/Culture,30.0,General Public,Sharepoint,
+Recreation,,2018-06-30T20:00:00.000,Brooklyn,Park,Scarangella Park,Movies Under the Stars : Black Panther,Community Based Event,Mobile Unit,500.0,General Public,Sharepoint,Movies
+Recreation,,2019-09-21T19:30:00.000,Bronx,Park,Ferry Point Park,Creed ll,Community Based Event,Mobile Unit,20.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2019-09-20T19:30:00.000,Bronx,Park,Vidalia Park,Aladdin,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-08T12:00:00.000,Bronx,Park,Ferry Point Park,Basketball Tournament,Community Based Event,Mobile Unit,100.0,Tot;#Children;#Teens,Sharepoint,Play
+Recreation,,2019-09-21T19:15:00.000,Brooklyn,Park,Commodore Barry Park,Aladdin (2019),Community Based Event,Mobile Unit,32.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-11T12:00:00.000,Bronx,Park,P.O. Serrano  Park,Community Engagement,Agency Produced Event,Mobile Unit,25.0,Tot;#Young Adult;#Teens,Sharepoint,Play
+Recreation,,2018-07-06T20:00:00.000,Brooklyn,Park,Herbert Von King Park,Movies Under the Stars : Marshall,Community Based Event,Mobile Unit,180.0,General Public,Sharepoint,Movies
+Recreation,,2019-07-30T20:45:00.000,Brooklyn,Park,Saratoga Park,If Beale Street Could Talk (2018),Community Based Event,Mobile Unit,55.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman TREYGER,2019-07-13T20:30:00.000,Brooklyn,Park,Scarangella Park,Spiderman: Into the Spider Verse (2018),Community Based Event,Mobile Unit,135.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-20T19:15:00.000,Queens,Park,Brookville Park,Avengers End Game,Community Based Event,Mobile Unit,30.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-20T19:00:00.000,Manhattan,Park,J. Hood Wright Park,Movies Under the Stars: Creed II,Community Based Event,Mobile Unit,82.0,General Public,Sharepoint,M.U.T.S
+Recreation,Council Member Kallos,2019-09-21T19:00:00.000,Manhattan,Park,Carl Schurz Park,Movies Under the Stars: Avengers: Endgame,Community Based Event,Mobile Unit,389.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-17T19:00:00.000,Manhattan,Park,Seward Park,Movies Under the Stars: Kubo and the Two Strings,Community Based Event,Mobile Unit,72.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-06-29T20:00:00.000,Brooklyn,Park,McKinley Park,Movies Under the Stars : E.T.,Community Based Event,Mobile Unit,400.0,General Public,Sharepoint,Movies
+Recreation,,2019-09-21T14:00:00.000,Manhattan,Park,Marcus Garvey Park,Mothership One,Local Event,Arts/Culture,1100.0,General Public,Sharepoint,Dance
+Recreation,Image Nation,2019-09-20T19:00:00.000,Manhattan,Park,St. Nicholas Park,Movies Under the Stars: Grace Jones Documentary,Community Based Event,Mobile Unit,189.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-28T19:05:00.000,Brooklyn,Park,Herbert Von King Park,Avengers: Endgame (2019),Community Based Event,Mobile Unit,76.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,Wyckoff House Museum,2019-09-29T13:00:00.000,Brooklyn,Park,Fidler-Wyckoff House Park,Breukelen Country Fair,Community Based Event,Family Festival,400.0,Children;#Tot;#General Public,Sharepoint,
+Recreation,,2018-07-02T20:00:00.000,Brooklyn,Park,Cadman Plaza Park,Movies Under the Stars : Dunkirk,Community Based Event,Mobile Unit,90.0,General Public,Sharepoint,Movies
+Recreation,,2019-09-29T19:00:00.000,Brooklyn,Park,Pena Herrera Park,The LEGO Movie 2 (2019),Community Based Event,Mobile Unit,-42.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-27T19:30:00.000,Brooklyn,Park,Maria Hernandez Park,Love in the Time of Cholera (2007),Community Based Event,Mobile Unit,63.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,Pelham Bay Park Special Events,2019-09-29T12:00:00.000,Bronx,Park,Pelham Bay Park,The Bronx Native American Festival,Community Based Event,Arts/Culture,105.0,General Public,Sharepoint,
+Recreation,,2019-09-27T19:30:00.000,Bronx,Park,Concrete Plant Park,Space Jam,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-07-07T21:00:00.000,Brooklyn,Park,Sunset Park,Movies Under the Stars : Pacific Rim,Community Based Event,Mobile Unit,500.0,General Public,Sharepoint,Movies
+Recreation,,2019-09-28T19:00:00.000,Bronx,Park,Joyce Kilmer Park,Night School,Community Based Event,Mobile Unit,80.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Recreation,,2019-09-19T19:00:00.000,Brooklyn,Park,Dyker Beach Park,Bill & Ted's Bogus Journey (1985),Community Based Event,Mobile Unit,64.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-27T19:00:00.000,Brooklyn,Park,Sunset Park,Despicable Me 2 (2013),Community Based Event,Mobile Unit,145.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-28T19:00:00.000,Brooklyn,Park,Lt. Joseph Petrosino Park,The Emoji Movie (2017),Community Based Event,Mobile Unit,301.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-03T19:15:00.000,Brooklyn,Park,Sunset Park,Pokemon Detective Pikachu (2019),Community Based Event,Mobile Unit,155.0,General Public,Sharepoint,M.U.T.S
+Recreation,Brooklyn Play Mobile,2019-09-27T12:00:00.000,Brooklyn,Park,John Paul Jones Park,Senior Art Show,Agency Produced Event,Mobile Unit,30.0,Seniors;#General Public,Sharepoint,Play
+Public Programs,,2019-09-21T19:30:00.000,Staten Island,Park,Clove Lakes Park,Secret Life of Pets 2 (2019),Community Based Event,Mobile Unit,55.0,General Public,Sharepoint,M.U.T.S
+Public Programs,CM Joseph Borelli,2019-09-20T19:30:00.000,Staten Island,Park,Lemon Creek Park,Aladdin (2019),Community Based Event,Mobile Unit,175.0,General Public,Sharepoint,M.U.T.S
+Recreation,"Council Member Kallos, Send in the Clowns, Agostino face paint",2018-05-11T20:25:00.000,Manhattan,Park,Carl Schurz Park,Movies Under the Stars: Ferdinand,Community Based Event,Mobile Unit,400.0,General Public,Sharepoint,Movies
+Recreation,,2018-06-28T20:00:00.000,Brooklyn,Park,Pena Herrera Park,Movies Under the Stars : Power Rangers,Community Based Event,Mobile Unit,36.0,General Public,Sharepoint,Movies
+Public Programs,,2019-09-28T19:00:00.000,Staten Island,Park,Willowbrook Park,Dark Phoenix (2019),Community Based Event,Mobile Unit,60.0,General Public,Sharepoint,M.U.T.S
+Public Programs,CM Joseph Borelli,2019-09-27T19:30:00.000,Staten Island,Park,Conference House Park,Mary Poppins Returns (2018),Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,M.U.T.S
+Public Programs,Friends of Mariners Harbor,2019-09-29T19:00:00.000,Staten Island,Park,The Big Park,Shazam! (209),Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,M.U.T.S
+Recreation,Brooklyn Play Mobile,2019-09-29T12:30:00.000,Brooklyn,Park,Commodore Barry Park,Community Friends Day,Community Based Event,Mobile Unit,38.0,General Public,Sharepoint,Play
+Recreation,NYC Parks,2019-09-28T10:00:00.000,Manhattan,Park,W. 151st Street 7th Avenue - Frederick Johnson Park,,Agency Produced Event,Mobile Unit,28.0,Tot;#Children,Sharepoint,Play
+Recreation,CM,2019-09-28T19:00:00.000,Queens,Park,Detective Keith L Williams Park,The Secret Life of Pets 2,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-07-05T20:00:00.000,Brooklyn,Park,John Paul Jones Park,Movies Under the Stars : Rocky,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Movies
+Urban Park Rangers,Council Woman Deborah Rose,2019-10-05T11:00:00.000,Staten Island,Park,Tappen Park,Community Fair,Community Based Event,Family Festival,200.0,Children;#Young Adult;#Teens;#Adults;#Seniors;#General Public,Sharepoint,
+Urban Park Rangers,Urban Park Rangers and Ametuer Astronomers Association,2019-09-07T19:00:00.000,Manhattan,Park,Central Park,Star Fest,Community Based Event,Nature,350.0,Young Adult;#Children;#Adults;#Teens;#General Public;#Seniors,Sharepoint,
+Recreation,,2019-10-05T18:50:00.000,Brooklyn,Park,Leif Ericson Park,Shocktoberfest: The Mortal Instruments: City of Bones (2013),Community Based Event,Mobile Unit,43.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman BRANNAN,2019-10-04T18:50:00.000,Brooklyn,Park,Owl's Head Park,Jurassic World: Fallen Kingdom (2018),Community Based Event,Mobile Unit,11.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,,2019-10-05T11:00:00.000,Bronx,Park,St. James Park,Bronx Fit Fest,Agency Produced Event,Fitness,153.0,General Public,Sharepoint,Fitness
+Recreation,,2019-10-05T19:00:00.000,Bronx,Park,Concrete Plant Park,Decade of Fire,Community Based Event,Mobile Unit,105.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,Riverworks,2019-10-06T10:00:00.000,Staten Island,Park,Buono Beach,Seashore Ecology Hike,Community Based Event,Nature,32.0,Young Adult,Sharepoint,
+Recreation,NYC Parks,2019-10-02T10:00:00.000,Manhattan,Park,Tompkins Square Park,Activities for the Kids,Agency Produced Event,Mobile Unit,47.0,Tot;#Children,Sharepoint,Play
+Recreation,,2018-07-09T00:00:00.000,Brooklyn,Park,Kaiser Park,Movies Under the Stars : Despicable Me 3,Community Based Event,Mobile Unit,120.0,General Public,Sharepoint,Movies
+Recreation,NYC Parks,2019-10-01T10:00:00.000,Manhattan,Park,Jackie Robinson,Activities for the Kids,Agency Produced Event,Mobile Unit,15.0,Tot;#Children,Sharepoint,Play
+Recreation,,2019-09-27T19:00:00.000,Manhattan,Park,Marcus Garvey Park,Movies Under the Stars: Claudine,Community Based Event,Mobile Unit,85.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-09-26T19:00:00.000,Manhattan,Park,Inwood Hill Park,Movies Under the Stars: My Little Pony the Movie,Community Based Event,Mobile Unit,10.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-10-05T10:00:00.000,Manhattan,Park,Highbridge Park,Summer on the Hudson Little Red Light Festival,Agency Produced Event,Mobile Unit,100.0,General Public,Sharepoint,Play
+Recreation,,2019-09-25T19:00:00.000,Manhattan,Park,Washington Market Park,Movies Under the Stars: Robin Hood,Community Based Event,Mobile Unit,139.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,CM Eric Ulrich,2019-10-12T12:00:00.000,Queens,Park,Forest Park,Forest Park Fall Festival,Agency Produced Event,Family Festival,350.0,General Public,Sharepoint,
+Urban Park Rangers,Department of Education,2019-10-10T14:30:00.000,Staten Island,Park,Willowbrook Park,Environmental studies showcase,Agency Produced Event,Academic/Out of School time,33.0,Teens,Sharepoint,Lecture/Panel/Talk
+Recreation,NYC Parks,2019-10-13T12:00:00.000,Queens,Park,Bayswater Park,Bayswater Fall Festival,Community Based Event,Mobile Unit,350.0,General Public,Sharepoint,Play
+Recreation,Brooklyn Play Mobile,2019-10-05T13:00:00.000,Brooklyn,Park,Cadman Plaza Park,Love Walk,Community Based Event,Mobile Unit,82.0,General Public,Sharepoint,Play
+Recreation,,2019-10-12T18:30:00.000,Brooklyn,Park,Commodore Barry Park,Shocktoberfest: Goosebumps 2: Haunted Halloween (2018),Community Based Event,Mobile Unit,24.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks,2019-10-12T12:00:00.000,Queens,Park,Forest Park,Forest Park Fall Festival,Community Based Event,Mobile Unit,550.0,General Public,Sharepoint,Play
+Recreation,,2018-07-03T20:30:00.000,Queens,Park,Juniper Valley Park,Movies Under The Stars,Community Based Event,Mobile Unit,248.0,General Public,Sharepoint,Movies
+Recreation,,2019-10-12T12:00:00.000,Bronx,Park,Poe Park Visitor Center,Tomb of Ligeia,Community Based Event,Mobile Unit,45.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,M.U.T.S
+Urban Park Rangers,Snug Harbor,2019-10-17T09:00:00.000,Staten Island,Park,Snug Harbor,Green Horizons,Agency Produced Event,Nature,30.0,Young Adult;#Children;#Adults;#Teens,Sharepoint,Lecture/Panel/Talk
+Urban Park Rangers,Marine Park Civic Association,2019-10-19T11:15:00.000,Brooklyn,Park,Marine Park,Marine Park 34th Halloween Fall Festival,Community Based Event,Family Festival,300.0,General Public,Sharepoint,
+Recreation,NYC Parks,2019-10-18T17:00:00.000,Queens,Park,John Golden Park,Movie Drive-In,Community Based Event,Mobile Unit,21.0,General Public,Sharepoint,Play
+Urban Park Rangers,"Muslim Volunteers for New York, Partnership for Parks",2019-10-19T10:00:00.000,Manhattan,Park,Ruppert Park,MV4NY Fall Environmental Stewardship Day,Community Based Event,Family Festival,180.0,General Public,Sharepoint,Play
+Recreation,,2019-10-18T18:15:00.000,Brooklyn,Park,Msgr. McGolrick Park,Shocktoberfest: Pet Sematary (2019),Community Based Event,Mobile Unit,51.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2018-07-08T20:00:00.000,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Jumanji (2017),Community Based Event,Mobile Unit,550.0,General Public,Sharepoint,Movies
+Recreation,,2019-10-19T18:15:00.000,Brooklyn,Park,John Paul Jones Park,Shocktoberfest: The Visit (2015),Community Based Event,Mobile Unit,6.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,John Bowne High School,2019-10-22T10:30:00.000,Queens,Park,Fort Totten Park,A Day in the Life of the Hudson and Harbor,Community Based Event,Nature,33.0,Teens,Sharepoint,
+Recreation,,2018-07-07T20:30:00.000,Bronx,Park,St. James Park,Movies Under The Stars: Wonder,Community Based Event,Mobile Unit,194.0,General Public,Sharepoint,Movies
+Urban Park Rangers,,2019-10-26T11:00:00.000,Staten Island,Park,Westerleigh Park,Wicked Westerleigh,Local Event,Family Festival,165.0,General Public,Sharepoint,
+Urban Park Rangers,"NYC Parks, Friends of Fort Totten Park",2019-10-26T00:00:00.000,Queens,Park,Fort Totten Park,Fort Totten Halloween Festival,Agency Produced Event,Family Festival,583.0,General Public,Sharepoint,
+Recreation,,2019-10-26T18:10:00.000,Brooklyn,Park,Bushwick Inlet Park,Beetlejuice (1988),Community Based Event,Mobile Unit,73.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,Marcus Garvey Park Alliance,2019-10-26T11:30:00.000,Manhattan,Park,Marcus Garvey Park,Mount Morris Fire Watchtower Ribbon Cutting,Community Based Event,Arts/Culture,250.0,Children;#Young Adult;#Adults;#Teens;#General Public;#Seniors,Sharepoint,
+Recreation,CM Richards,2019-10-05T12:00:00.000,Queens,Park,Brookville Park,Fall Festival,Agency Produced Event,Family Festival,400.0,Tot;#Children;#Adults;#General Public,Sharepoint,
+Recreation,,2018-07-07T20:30:00.000,Queens,Park,Springfield Park,"Movies Under The Stars ""  Moana """,Community Based Event,Mobile Unit,219.0,General Public,Sharepoint,Movies
+Recreation,,2019-10-25T19:00:00.000,Bronx,Park,Concrete Plant Park,Goonies,Community Based Event,Mobile Unit,45.0,General Public,Sharepoint,M.U.T.S
+Recreation,NYC Parks & Recreation,2019-10-19T11:00:00.000,Queens,Park,Juniper Valley Park,Halloween Festival,Community Based Event,Family Festival,3000.0,General Public,Sharepoint,Play
+Recreation,Forest Parks Administrator Portia Dyrenforth/ CM Ulrich,2019-10-12T12:00:00.000,Queens,Park,Forest Park,Fall Festival,Agency Produced Event,Family Festival,3000.0,Tot;#Children;#Adults;#General Public,Sharepoint,
+Recreation,Rockaway Administrator Eric Peterson/ CM Richards,2019-10-13T12:00:00.000,Queens,Park,Bayswater Park,Fall Festival,Agency Produced Event,Family Festival,1000.0,Children;#Tot;#General Public;#Adults,Sharepoint,
+Recreation,,2018-07-05T20:30:00.000,Queens,Park,Roy Wilkins,Movies Under The Stars ( Jumanji 2017),Community Based Event,Mobile Unit,123.0,General Public,Sharepoint,Movies
+Recreation,NYC Parks & Recreation,2019-10-19T00:00:00.000,Queens,Park,Tudor Park,Fall Festival,Community Based Event,Family Festival,700.0,General Public,Sharepoint,Play
+Urban Park Rangers,NYRP,2019-10-25T14:00:00.000,Manhattan,Park,Sherman Creek Park,Fall Festival at Sherman Shriek Park,Community Based Event,Family Festival,260.0,General Public,Sharepoint,
+Urban Park Rangers,Fort Tryon Park Trust,2019-10-26T13:00:00.000,Manhattan,Park,Fort Tryon Park,Harvest Festival,Community Based Event,Family Festival,352.0,General Public,Sharepoint,
+Urban Park Rangers,Historic House Trust and Riverside Park onservancy,2019-10-05T12:00:00.000,Manhattan,Park,Fort Washington Park,Little Red Light House Festival,Agency Produced Event,Nature,482.0,General Public;#Seniors;#Teens;#Adults;#Young Adult;#Tot;#Children,Sharepoint,
+Urban Park Rangers,Ft. Greene Conservancy,2019-10-26T12:00:00.000,Brooklyn,Park,Fort Greene Park,Fort Greene Halloween Festival,Community Based Event,Nature,540.0,Tot;#Adults;#Children;#Teens;#Young Adult,Sharepoint,
+Recreation,NYC Parks,2019-10-12T00:00:00.000,Manhattan,Park,Bellevue South Park,This is Us Park Appreciation Day,Community Based Event,Mobile Unit,46.0,General Public,Sharepoint,Play
+Recreation,,2019-11-21T19:00:00.000,Manhattan,Park,John V. Lindsay East River Park,Veteran's Softball Game,Agency Produced Event,Sport,34.0,Adults;#Young Adult;#General Public;#Children,Sharepoint,Tier 2
+Recreation,NYC Parks and Recreation/ Baruch College,2019-11-09T12:00:00.000,Queens,Park,Juniper Valley Park,Queens Recreation Softball Clinic,Community Based Event,Sport,16.0,Teens;#Children,Sharepoint,Tier 2
+Recreation,,2018-07-11T20:00:00.000,Brooklyn,Park,Msgr. McGolrick Park,Movies Under the Stars : Sing!!,Community Based Event,Mobile Unit,175.0,General Public,Sharepoint,Movies
+Recreation,NYC Parks and Recreation,2019-11-11T10:00:00.000,Queens,Park,Beach 32nd Street Football Fields,Girls Flag Football Invitational,Community Based Event,Sport,150.0,Children;#Teens,Sharepoint,Tier 1
+Recreation,Councilman Espinal,2019-10-26T00:00:00.000,Brooklyn,Park,Irving Square Park,Avengers Endgame(2019),Community Based Event,Mobile Unit,256.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-10-04T00:00:00.000,Brooklyn,Park,McCarren Park,What We Do in the Shadows(2014),Community Based Event,Mobile Unit,117.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,NYC Parks and Recreation,2019-11-23T11:15:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Park Tree Planting Hike,Community Based Event,Nature,28.0,General Public,Sharepoint,
+Recreation,,2019-10-18T00:00:00.000,Brooklyn,Park,Sunset Park,The Dead Don't Die(2019),Community Based Event,Mobile Unit,23.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Brannan,2019-10-19T00:00:00.000,Brooklyn,Park,Dyker Beach Park,Shazam(2019),Community Based Event,Mobile Unit,34.0,General Public,Sharepoint,M.U.T.S
+Recreation,Councilman Espinal,2019-10-12T00:00:00.000,Brooklyn,Park,Irving Square Park,Toy Story 4(2019),Community Based Event,Mobile Unit,304.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-10-13T00:00:00.000,Brooklyn,Park,Sunset Park,The Curse of La Llorona,Community Based Event,Mobile Unit,72.0,General Public,Sharepoint,M.U.T.S
+Recreation,,2019-10-11T00:00:00.000,Brooklyn,Park,Maria Hernandez Park,La Leyenda de la Llorona(2011),Community Based Event,Mobile Unit,143.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,John Kilcullen,2019-11-29T12:00:00.000,Staten Island,Park,Jones Woods Park,"Staten Island Northshore ""Greenbelt Crescent"" Black Friday Walk",Agency Produced Event,Nature,5.0,General Public,Sharepoint,
+Recreation,,2019-10-10T00:00:00.000,Brooklyn,Park,Bushwick Inlet Park,Fears of the Dark(2007),Community Based Event,Mobile Unit,5.0,General Public,Sharepoint,M.U.T.S
+Urban Park Rangers,General Public,2020-07-13T11:30:00.000,Staten Island,Park,Clove Lakes Park,Photo Scavenger Hunt,Community Based Event,Nature,10.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,NYC Audubon,2019-12-15T08:00:00.000,Manhattan,Park,Central Park,Christmas Bird Count,Community Based Event,Nature,150.0,General Public,Sharepoint,
+Urban Park Rangers,Greenbelt,2019-12-14T07:30:00.000,Staten Island,Park,High Rock Park,Christmas Bird Count,Community Based Event,Nature,0.0,General Public,Sharepoint,
+Urban Park Rangers,Urban Park Rangers,2019-09-14T12:00:00.000,Manhattan,Park,Central Park,Raptor Fest,Agency Produced Event,Family Festival,4000.0,General Public,Sharepoint,
+Recreation,,2018-07-11T11:00:00.000,Bronx,Park,Patterson Houses,,Community Based Event,Mobile Unit,2.0,Children,Sharepoint,Play
+Urban Park Rangers,General Public,2020-07-14T02:45:00.000,Staten Island,Park,Von Briesen Park,Know your park!,Community Based Event,Nature,5.0,General Public,Sharepoint,Summer 2020
+Recreation,,2019-11-03T00:00:00.000,Queens,Park,Fort Totten Park,Fort Totten Halloween Festival,Community Based Event,Family Festival,2500.0,Children;#Teens,Sharepoint,Play
+Recreation,,2018-07-06T10:00:00.000,Bronx,Park,Van Nest Park,Van nest Playground,Community Based Event,Mobile Unit,45.0,Children;#Teens;#General Public,Sharepoint,Play
+Recreation,"Imagine Nation, Historic Harlem Parks",2018-05-25T20:30:00.000,Manhattan,Park,Marcus Garvey Park,Movies Under the Stars: Lilies of the Field,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,Movies
+Recreation,,2020-08-22T09:00:00.000,Manhattan,Park,Thomas Jefferson Park,Thomas Jefferson Track & Field Day,Agency Produced Event,Sport,100.0,Children;#Teens;#Seniors;#General Public,Sharepoint,Tier 2
+Urban Park Rangers,Staten Island Zoo,2020-02-02T06:00:00.000,Staten Island,Park,Barrett Park,Groundhogs Day,Community Based Event,Nature,110.0,General Public,Sharepoint,
+Urban Park Rangers,Alley Pond Environmental Center,2020-01-11T11:00:00.000,Queens,Park,Alley Pond Park,Alley Pond Environmental Center Ribbon Cutting Ceremony,Community Based Event,Nature,212.0,General Public,Sharepoint,
+Urban Park Rangers,Parks Marketing and Special Events and Recreation,2020-02-01T11:00:00.000,Manhattan,Park,Central Park,Winter Jam,Agency Produced Event,Sport,650.0,Tot;#Children;#Young Adult;#Adults;#Teens,Sharepoint,Play
+Urban Park Rangers,Greenbelt Conservancy,2020-02-16T13:00:00.000,Staten Island,Park,High Rock Park,Civilian Conservation Corps Volunteer Project,Local Event,Academic/Out of School time,18.0,Young Adult;#Adults;#Teens,Sharepoint,
+Urban Park Rangers,Public,2020-02-23T11:00:00.000,Brooklyn,Park,Marine Park,Volunteer Clean Up,Local Event,Nature,7.0,General Public,Sharepoint,
+Urban Park Rangers,General Public,2020-02-29T13:00:00.000,Queens,Park,Alley Pond Park,Alley Pond Winter Activities and Games,Agency Produced Event,Family Festival,800.0,Tot;#Children;#Young Adult;#Adults;#Teens;#Seniors;#General Public,Sharepoint,Play
+Recreation,Carol Landes,2020-07-15T08:00:00.000,Staten Island,Playground,Jennifer's Playground,Stronger Than Ever,Open House,Fitness,11.0,Seniors,Sharepoint,Summer 2020
+Recreation,Councilman Cohen,2018-07-11T20:30:00.000,Bronx,Park,Seton Park,Movies Under The Stars: Star Wars The Last Jedi,Community Based Event,Mobile Unit,25.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-13T12:36:00.000,Queens,Park,Queensbridge Park,Park Pals,Community Based Event,Nature,14.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-13T10:30:00.000,Manhattan,Park,Tompkins Square Park,Hawk Talk,Community Based Event,Nature,18.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-14T14:30:00.000,Brooklyn,Park,Calvert Vaux Park,Park Shoreline Exploration,Community Based Event,Nature,4.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-13T12:30:00.000,Brooklyn,Park,Canarsie Park,Canarsie Park's Artificial Tide Pool,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-12T13:00:00.000,Brooklyn,Park,Marine Park,Wildflowers vs Mugwort,Community Based Event,Nature,6.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-14T11:15:00.000,Queens,Park,Baisley Pond Park,Birds of a Feather,Community Based Event,Nature,8.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-13T16:35:00.000,Queens,Park,Hoffman Park,"Sparrows, Squirrels, and Pigeons",Community Based Event,Nature,7.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-14T15:30:00.000,Brooklyn,Park,Coney Island Creek Park,Dune Ecology,Community Based Event,Nature,5.0,General Public,Sharepoint,Summer 2020
+Recreation,Council Member Gibson,2018-07-13T20:30:00.000,Bronx,Park,Macombs Dam Park,Movies Under The Stars: Wonder Woman,Community Based Event,Mobile Unit,137.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-15T11:15:00.000,Staten Island,Park,Silver Lake Park,Nature Bingo!,Community Based Event,Nature,20.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-14T14:00:00.000,Staten Island,Park,Von Briesen Park,Know your park!,Community Based Event,Nature,5.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T10:00:00.000,Brooklyn,Park,Highland Park,Rose Garden Intro.,Community Based Event,Nature,5.0,General Public,Sharepoint,Summer 2020
+Recreation,PS 107,2021-09-01T10:00:00.000,Bronx,Park,Soundview Park,Monologues for Kids,Agency Produced Event,Arts/Culture,0.0,Children,Sharepoint,Play
+Urban Park Rangers,General Public,2020-07-15T10:00:00.000,Queens,Park,Captain Tilly Park,Tilly Wildlife,Community Based Event,Nature,11.0,General Public,Sharepoint,Summer 2020
+Recreation,Mauricio Cortez,2020-07-13T12:00:00.000,Brooklyn,Park,Herbert Von King Park,Youth Summer Pop Up Recreation,Local Event,Sport,15.0,Tot;#Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T14:15:00.000,Queens,Park,Captain Tilly Park,Ranger Says! Nature ASL edition,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Recreation,Carol Landes,2020-07-14T08:00:00.000,Staten Island,Park,Freshkills Park,Stronger Than Ever - Freshkills Walk,Open House,Fitness,2.0,Seniors,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T14:40:00.000,Queens,Park,Captain Tilly Park,"Great Egrets, No Regrets",Community Based Event,Nature,2.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-13T13:20:00.000,Queens,Park,Queensbridge Park,Park Pals Part 2,Community Based Event,Nature,21.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T14:00:00.000,Brooklyn,Park,Thomas Boyland Park,Rangers in the Park!,Community Based Event,Nature,9.0,General Public,Sharepoint,Summer 2020
+Recreation,Deborah Edwards,2020-07-31T11:00:00.000,Bronx,Park,Williamsbridge Oval Park,Fastest Kid In Parks Track & Field Event,Local Event,Sport,40.0,Children;#General Public,Sharepoint,Tier 2
+Recreation,Jonathan Adone,2020-07-13T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick Up Pickleball,Local Event,Sport,16.0,Seniors,Sharepoint,Summer 2020
+Recreation,Debra Edwards,2020-08-18T11:00:00.000,Bronx,Park,"Huns Point, Williamsbridge Oval & St. Mary's Park",The Bronx Safari Revolution,Local Event,Family Festival,40.0,Children;#General Public,Sharepoint,
+Urban Park Rangers,General Public,2020-07-15T16:00:00.000,Manhattan,Park,Marcus Garvey Park,Mount Morris Fire Watchtower from the Ground,Community Based Event,Nature,5.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T15:15:00.000,Staten Island,Park,Clove Lakes Park,Nature Bingo,Community Based Event,Nature,15.0,General Public,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-13T14:00:00.000,Brooklyn,Park,McKinley Park,TABATA Training,Local Event,Fitness,3.0,Adults,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-14T10:00:00.000,Brooklyn,Park,McKinley Park,Rhythm & Weights,Local Event,Fitness,16.0,Children,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-15T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick Up Pickleball,Local Event,Sport,15.0,Seniors,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-14T14:00:00.000,Brooklyn,Park,McKinley Park,Soccer Skills & Games,Local Event,Sport,4.0,Children,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreaion Staff,2020-07-13T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Inspiration Motivation,Open House,Fitness,2.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T15:30:00.000,Manhattan,Park,Marcus Garvey Park,Red Tailed Hawk Spotting Pop-Up,Community Based Event,Nature,9.0,General Public,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-15T14:00:00.000,Brooklyn,Park,McKinley Park,tabata Training,Local Event,Performance,5.0,Adults,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreaion Staff,2020-07-13T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Street Hockey,Open House,Sport,0.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-05-25T20:10:00.000,Staten Island,Park,Wolfe's Pond Park,Movies Under the Stars: Despicable Me 2,Community Based Event,Mobile Unit,110.0,General Public,Sharepoint,Movies
+Recreation,,2018-07-13T21:00:00.000,Queens,Park,Crocheron Park,"MUTS ""Star Wars: The Last Jedi""",Community Based Event,Mobile Unit,214.0,General Public,Sharepoint,Movies
+Recreation,Ocean Breeze Recreaion Staff,2020-07-13T09:45:00.000,Staten Island,Park,Ocean Breeze Park,Step & Fit,Open House,Fitness,5.0,General Public,Sharepoint,Summer 2020
+Recreation,Jonathan.Adone,2020-07-16T10:00:00.000,Brooklyn,Park,McKinley Park,Rthym & Weights,Local Event,Fitness,4.0,Adults;#Seniors,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreaion Staff,2020-07-13T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,,2020-07-16T12:00:00.000,Manhattan,Park,Tompkins Square Park,Red Tail Hawk Fledgling Eats a Pigeon,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-16T12:00:00.000,Staten Island,Park,Clove Lakes Park,Nature Quest,Community Based Event,Nature,11.0,General Public,Sharepoint,Summer 2020
+Recreation,A Walk In The Park,2020-07-16T00:00:00.000,Bronx,Park,St. James Park,A Walk In The Park,Community Based Event,Fitness,1.0,Young Adult;#Adults;#Seniors,Sharepoint,Fitness
+Recreation,Ricardo Sanchez,2020-07-14T10:30:00.000,Manhattan,Park,Columbus Park,KIM Outdoor Programming,Community Based Event,Sport,7.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,Public,2020-07-16T14:00:00.000,Manhattan,Park,Inwood Hill Park,Nature Hike,Agency Produced Event,Nature,1.0,General Public,Sharepoint,Summer 2020
+Recreation,Giovanni Feliciano,2020-07-14T10:30:00.000,Manhattan,Park,Highbridge Park,KIM Outdoor Programming,Community Based Event,Sport,3.0,Children;#Tot;#Teens,Sharepoint,Summer 2020
+Recreation,Guy Ruffin & Daniel Colonna,2020-07-14T10:30:00.000,Manhattan,Park,Thomas Jefferson Park,SSE Outdoor Programming,Community Based Event,Sport,2.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Leo Saito,2020-07-16T10:30:00.000,Manhattan,Park,Marcus Garvey Park,KIM Outdoor Programming,Community Based Event,Sport,7.0,Tot;#Teens;#Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-16T15:30:00.000,Staten Island,Park,Silver Lake Park,Nature Quest,Community Based Event,Nature,3.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-16T14:30:00.000,Queens,Park,Elmhurst Park,Meet Beetle Buddy and Sammy Squirrel,Community Based Event,Nature,11.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,Public,2020-07-16T15:00:00.000,Manhattan,Park,Inwood Hill Park,Nature Hike,Agency Produced Event,Nature,2.0,General Public,Sharepoint,Summer 2020
+Recreation,"Carlton Jean-Jacques, Troy Basso",2020-08-29T10:00:00.000,Bronx,Park,St. Mary's Park,Sports N Fitness,Community Based Event,Sport,0.0,Teens,Sharepoint,Tier 1
+Urban Park Rangers,General Public,2020-07-16T14:00:00.000,Queens,Park,Elmhurst Park,Nature Signs Ranger Says,Community Based Event,Nature,7.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-08-29T15:00:00.000,Bronx,Park,St. Mary's Park,Basketball/Player Devlopment,Community Based Event,Sport,0.0,Teens,Sharepoint,Tier 1
+Recreation,Kiegan Albert,2020-07-15T10:30:00.000,Manhattan,Park,Carmansville Park,KIM Outdoor Programming,Community Based Event,Sport,8.0,Teens;#Tot;#Children,Sharepoint,Summer 2020
+Recreation,,2020-07-14T11:00:00.000,Queens,Park,Beach 17th Street,Kids in Motion,Community Based Event,KIM,13.0,Children;#Teens,Sharepoint,Summer 2020
+Recreation,,2018-07-05T00:00:00.000,Staten Island,Park,Seaside Wildlife Nature Park,Movies Under the Stars: Jumanji,Community Based Event,Mobile Unit,100.0,General Public,Sharepoint,Movies
+Recreation,,2020-07-16T10:30:00.000,Bronx,Park,Haffen Park,Basketball Skills,Agency Produced Event,Sport,1.0,Children;#Young Adult;#Teens,Sharepoint,Tier 1
+Urban Park Rangers,General Public,2020-07-15T10:00:00.000,Bronx,Park,St. Mary's Park,Animal Olympics,Agency Produced Event,Nature,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Raoufa Ali,2020-07-15T10:30:00.000,Manhattan,Park,Hamilton Fish Park,KIM Outdoor Programming,Community Based Event,Sport,0.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T12:00:00.000,Bronx,Park,Barretto Point Park,Scavenger Hunt,Agency Produced Event,Nature,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Leo Saito,2020-07-16T10:30:00.000,Manhattan,Park,Marcus Garvey Park,KIM Outdoor Programming,Community Based Event,Sport,10.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,,2018-07-14T20:00:00.000,Brooklyn,Park,Cooper Park,Movies Under the Stars : Star Trek,Community Based Event,Mobile Unit,225.0,General Public,Sharepoint,Movies
+Recreation,Guy Ruffin & Daniel Colonna,2020-07-16T10:30:00.000,Manhattan,Park,Thomas Jefferson Park,SSE Outdoor Programming,Community Based Event,Sport,2.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Ricardo Sanchez,2020-07-16T10:30:00.000,Manhattan,Park,Columbus Park,KIM Outdoor Programming,Community Based Event,Sport,5.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-14T12:00:00.000,Bronx,Park,Vidalia Park,Nature Activity,Agency Produced Event,Nature,0.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-14T10:00:00.000,Bronx,Park,Crotona Park,Orienteering,Agency Produced Event,Nature,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Giovanni Feliciano,2020-07-16T10:30:00.000,Manhattan,Park,Highbridge Park,KIM Outdoor Programming,Community Based Event,Sport,22.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-13T10:00:00.000,Bronx,Park,Mullaly Park,Ranger Activity,Agency Produced Event,Nature,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Tatiyana Lewis,2020-07-14T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Family Fun,Local Event,Fitness,8.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-15T14:00:00.000,Bronx,Park,Barretto Point Park,Scavenger Hunt,Agency Produced Event,Nature,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Carol Landes,2020-07-16T08:00:00.000,Staten Island,Park,Freshkills Park,Stronger Than Ever - Freshkills walk,Open House,Fitness,1.0,Seniors,Sharepoint,Summer 2020
+Recreation,Shanel Burgess,2020-07-16T14:00:00.000,Bronx,Park,Poe Park,Art in the Parks : Painting Hacks using sponges,Community Based Event,Arts/Culture,9.0,Tot;#Teens,Sharepoint,Summer 2020
+Recreation,Shanel Burgess,2020-07-16T11:00:00.000,Bronx,Park,Poe Park,Art in the Park: Painting hacks using sponges,Community Based Event,Arts/Culture,8.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-17T14:00:00.000,Brooklyn,Park,Sunset Park,Chalk Art,Community Based Event,Nature,8.0,General Public;#Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-17T14:15:00.000,Brooklyn,Park,Sunset Park,Chalk Art,Community Based Event,Nature,7.0,Children;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,,2020-07-17T12:05:00.000,Manhattan,Park,Central Park,Why is That Turtle Swimming Sideways,Community Based Event,Nature,9.0,General Public,Sharepoint,Summer 2020
+Recreation,Carol Landes,2020-07-17T08:00:00.000,Staten Island,Playground,Jennifer's Playground,Stronger Than Ever,Open House,Fitness,11.0,Seniors,Sharepoint,Summer 2020
+Recreation,,2018-07-07T21:00:00.000,Staten Island,Park,Westerleigh Park,Movies Under the Stars: Star Wars: The Clone Wars,Community Based Event,Mobile Unit,50.0,General Public,Sharepoint,Movies
+Recreation,"Garfield Richards, Troy Basso",2020-09-12T10:00:00.000,Bronx,Recreation Center,St. Mary's Recreation Center,Sports N Fitness,Community Based Event,Sport,0.0,Teens,Sharepoint,Fitness
+Urban Park Rangers,General Public,2020-07-17T14:45:00.000,Queens,Park,Rockaway Beach 59,Beach Scavenger Hunt,Community Based Event,Nature,11.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-17T16:00:00.000,Manhattan,Park,Inwood Hill Park,Baby Birds,Community Based Event,Nature,4.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,,2020-07-17T13:30:00.000,Manhattan,Park,Central Park,What's that Bird,Community Based Event,Nature,3.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-17T14:30:00.000,Staten Island,Park,The Big Park,Nature Sketching,Community Based Event,Nature,5.0,Children;#Young Adult;#Adults;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T10:55:00.000,Manhattan,Park,Morningside Park,Egret Extravaganza,Community Based Event,Nature,38.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T10:00:00.000,Staten Island,Park,Walker Park,Nature Sketching,Community Based Event,Nature,0.0,Children;#Young Adult;#Teens;#Adults;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T10:30:00.000,Queens,Park,Astoria Park,Astoria Hawks,Community Based Event,Nature,11.0,General Public,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-17T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick Up Pickleball,Local Event,Fitness,15.0,Seniors,Sharepoint,Summer 2020
+Recreation,,2018-07-10T21:00:00.000,Staten Island,Park,Conference House Park,Movies Under the Stars: Pitch Perfect,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Movies
+Recreation,Sharon Colon,2020-07-17T14:00:00.000,Brooklyn,Park,McKinley Park,Children and Parents Book Reading,Local Event,Arts/Culture,7.0,Tot;#Adults,Sharepoint,
+Recreation,Jonathan.Adone,2020-07-16T14:00:00.000,Brooklyn,Park,McKinley Park,Soccer Skills,Local Event,Fitness,6.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-19T10:00:00.000,Brooklyn,Park,Paerdegat Park,Chalk Drawing,Community Based Event,Nature,4.0,Children;#Adults,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T14:40:00.000,Bronx,Park,Clason Point Park,Casting Lessons,Agency Produced Event,Nature,5.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T14:45:00.000,Brooklyn,Park,Irving Square Park,Chalk Draw and Mask Giveaway,Community Based Event,Nature,15.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T14:00:00.000,Manhattan,Park,St. Nicholas Park,inHarlem- Park Reflections,Community Based Event,Arts/Culture,6.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T11:30:00.000,Brooklyn,Park,Herbert Von King Park,Chalk Draw and Mask Giveaway,Community Based Event,Nature,10.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-14T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-15T09:45:00.000,Staten Island,Park,Ocean Breeze Park,Bend & Flex,Open House,Fitness,9.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-06T21:00:00.000,Staten Island,Park,Father Macris Park,Movies Under the Stars: Rise of the Planet of the Apes,Community Based Event,Mobile Unit,75.0,General Public,Sharepoint,Movies
+Recreation,Ocean Breeze Recreation Staff,2020-07-15T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Wake-up Stretch and Relax Yoga,Open House,Fitness,7.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-14T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Balance & Stability Games,Open House,Sport,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-15T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Soccer Skills,Open House,Sport,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-16T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public;#Seniors,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-16T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Plyometrics,Open House,Sport,1.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-17T09:45:00.000,Staten Island,Park,Ocean Breeze Park,Step & Fit,Open House,Fitness,4.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Receration Staff,2020-07-17T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Fit to the Core,Open House,Fitness,3.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-14T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,5.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-17T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-17T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Track & Field,Open House,Sport,10.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-07T21:00:00.000,Staten Island,Park,Wolfe's Pond Park,Movies Under the Stars:,Community Based Event,Mobile Unit,150.0,General Public,Sharepoint,Movies
+Recreation,Ocean Breeze Recreation Staff,2020-07-15T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,4.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-15T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-13T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,1.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-19T11:52:00.000,Queens,Park,Forest Park,Nature Art and Appreciation,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-17T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,14.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-19T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,1.0,General Public,Sharepoint,Summer 2020
+Recreation,"Ingrid Tafe, Oscar Chaves",2020-07-13T15:30:00.000,Bronx,Park,Williamsbridge Oval Park,Youth Meets,Local Event,Sport,15.0,Children;#Tot;#Teens,Sharepoint,Summer 2020
+Recreation,"Sarah Bishow, Oscar Chavez and GiGi",2020-07-13T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Chair Aerobics,Community Based Event,Fitness,13.0,Seniors;#Adults;#Young Adult;#Teens,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-16T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,8.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-19T11:00:00.000,Manhattan,Park,St. Nicholas Park,Manhattan Geological Spine,Community Based Event,Nature,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-18T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,2.0,General Public,Sharepoint,Summer 2020
+Recreation,"Ingrid Tafe, Oscar Chaves",2020-07-14T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Family Fun,Local Event,Family Festival,7.0,Tot;#Children;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-19T12:35:00.000,Staten Island,Park,Clove Lakes Park,Plant and grow!,Community Based Event,Nature,11.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-19T15:15:00.000,Manhattan,Park,Morningside Park,Morningside Pond Pop-up,Community Based Event,Nature,21.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-19T15:27:00.000,Queens,Park,Bayswater Park,Nature Art,Community Based Event,Nature,8.0,General Public,Sharepoint,Summer 2020
+Recreation,Annalisa Thompson,2020-07-18T10:30:00.000,Manhattan,Park,Marcus Garvey Park,Harlem Programming,Community Based Event,Sport,7.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-20T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Inspiration Motivation,Open House,Fitness,6.0,General Public,Sharepoint,Summer 2020
+Recreation,Kiegan Albert,2020-07-17T10:30:00.000,Manhattan,Park,Carmansville Park,KIM Outdoor Programming,Community Based Event,Sport,0.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Raoufa.Ali,2020-07-17T10:30:00.000,Manhattan,Park,Hamilton Fish Park,KIM Outdoor Programming,Community Based Event,Sport,1.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation,2020-07-20T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Street Hockey,Open House,Sport,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Guy Ruffin & Daniel Colonna,2020-07-18T10:30:00.000,Manhattan,Park,Thomas Jefferson Park,Harlem Programming,Community Based Event,Sport,4.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-20T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,4.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreaion Staff,2020-07-20T09:45:00.000,Staten Island,Park,Ocean Breeze Park,Step & Fit,Open House,Fitness,4.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-20T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-13T21:00:00.000,Staten Island,Park,Bloomingdale Park,Movies Under the Stars: Cars 3,Community Based Event,Mobile Unit,225.0,General Public,Sharepoint,Movies
+Recreation,Hunts Point Staff,2020-07-20T11:00:00.000,Bronx,Recreation Center,Hunts Point Recreation Center,Soccer Skills,Community Based Event,Sport,10.0,Children;#Teens,Sharepoint,Summer 2020
+Recreation,"Sarah Bishow, Julie Jorge and GiGi",2020-07-20T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Chair Arobics,Community Based Event,Fitness,7.0,Young Adult;#Adults;#Teens;#Adaptive;#Seniors,Sharepoint,Summer 2020
+Recreation,Hunts Point Staff,2020-07-20T12:00:00.000,Bronx,Recreation Center,Hunts Point Recreation Center,Calisthenics,Community Based Event,Fitness,10.0,Children;#Teens,Sharepoint,Summer 2020
+Recreation,Hunts Point Staff,2020-07-21T14:00:00.000,Bronx,Recreation Center,Hunts Point Recreation Center,Dodgeball,Community Based Event,Sport,10.0,Children;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-20T00:00:00.000,Brooklyn,Park,Marine Park,Photo Scavenger Hunt: Wildflowers and Butterflies,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-12T21:00:00.000,Staten Island,Park,Clove Lakes Park,Movies Under the Stars:Beauty and Beast,Community Based Event,Mobile Unit,225.0,General Public,Sharepoint,Movies
+Recreation,Hunts Point Staff,2020-07-21T14:00:00.000,Bronx,Recreation Center,Hunts Point Recreation Center,Cardio Fitness,Community Based Event,Fitness,10.0,Teens;#Children,Sharepoint,Summer 2020
+Recreation,,2020-07-20T11:00:00.000,Bronx,Park,Bronx Park,Kids and Play,Local Event,Sport,10.0,Children;#Adaptive,Sharepoint,Tier 2
+Recreation,,2020-07-24T11:00:00.000,Bronx,Park,Bronx Park,All About Me Art Program,Local Event,Arts/Culture,10.0,Children;#General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-28T11:00:00.000,Bronx,Park,Bronx Park,Fitness for Kids through Dance and Stepping,Local Event,Fitness,10.0,Children;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-20T11:30:00.000,Manhattan,Park,Tompkins Square Park,Hawk Watch,Community Based Event,Nature,9.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-29T11:00:00.000,Bronx,Park,Bronx Park,Soccer for Toddlers,Local Event,Sport,10.0,Tot;#General Public,Sharepoint,Tier 2
+Recreation,,2020-07-22T11:00:00.000,Bronx,Park,Bronx Park,Kids and Play,Local Event,Sport,10.0,Children;#General Public,Sharepoint,Tier 2
+Recreation,,2020-07-29T12:00:00.000,Bronx,Park,Bronx Park,Read to Me in the Park,Local Event,Academic/Out of School time,10.0,Tot;#General Public,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-20T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick Up Pickle Ball,Local Event,Fitness,17.0,Seniors,Sharepoint,Summer 2020
+Recreation,,2020-08-04T11:00:00.000,Bronx,Park,Bronx Park,Fitness for kids through Dance & Stepping,Local Event,Fitness,10.0,Children;#General Public,Sharepoint,Dance
+Recreation,,2018-07-14T21:00:00.000,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: Rouge One: A Star Wars Story,Community Based Event,Mobile Unit,40.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-20T14:30:00.000,Queens,Park,Elmhurst Park,Cool Critters,Community Based Event,Nature,11.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Receration Staff,2020-07-21T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,3.0,General Public,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-20T14:00:00.000,Brooklyn,Park,McKinley Park,TABATA Training,Local Event,Fitness,3.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-20T16:00:00.000,Brooklyn,Park,Saratoga Park,Hawk Talk,Community Based Event,Nature,6.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-22T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Open Patio Area,Open House,Family Festival,8.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-21T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public,Sharepoint,Summer 2020
+Recreation,St James,2020-07-20T11:00:00.000,Bronx,Park,St. James Park,A Walk In The Park,Open House,Fitness,2.0,Adults,Sharepoint,Fitness
+Recreation,,2018-07-13T21:00:00.000,Staten Island,Pool,Faber Pool and Park,Movies Under the Stars: Hook,Community Based Event,Mobile Unit,35.0,General Public,Sharepoint,Movies
+Recreation,,2020-07-16T11:00:00.000,Queens,Park,Beach 17th Street,Kids in Motion,Community Based Event,KIM,16.0,Children;#Tot;#Teens;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-20T18:00:00.000,Brooklyn,Park,Marine Park,Ask a Ranger: Wildlife Sightings,Community Based Event,Nature,3.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-21T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Balance & Stability Games,Open House,Sport,0.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-17T11:00:00.000,Queens,Park,Detective Keith L Williams Park,Kids in Motion,Community Based Event,KIM,14.0,Children;#Tot;#Teens;#General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-13T11:00:00.000,Queens,Park,Detective Keith L Williams Park,Kids in Motion,Community Based Event,KIM,15.0,General Public;#Teens;#Children;#Tot,Sharepoint,Summer 2020
+Public Programs,,2020-07-15T11:00:00.000,Queens,Park,Detective Keith L Williams Park,Outdoor Programming,Community Based Event,Mobile Unit,22.0,General Public;#Children;#Tot,Sharepoint,Summer 2020
+Recreation,Quiana and Nessa,2020-07-17T15:30:00.000,Bronx,Park,Williamsbridge Oval Park,Jump Rope,Open House,Fitness,0.0,Children;#Young Adult,Sharepoint,Summer 2020
+Recreation,Carl Antoine,2020-07-21T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Pickle Ball,Community Based Event,Sport,4.0,Seniors,Sharepoint,Summer 2020
+Recreation,,2020-07-22T13:00:00.000,Bronx,Park,Williamsbridge Oval Park,Stretch,Local Event,Fitness,0.0,Children,Sharepoint,Summer 2020
+Recreation,Bridgett,2020-07-21T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Family Fun,Community Based Event,Family Festival,2.0,Tot;#Children,Sharepoint,Summer 2020
+Recreation,Carl Antoine,2020-07-16T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Pickle Ball,Community Based Event,Sport,4.0,Seniors,Sharepoint,Summer 2020
+Recreation,Carl Antoine,2020-07-16T15:30:00.000,Bronx,Park,Williamsbridge Oval Park,Street Hockey,Community Based Event,Sport,1.0,Children,Sharepoint,Summer 2020
+Recreation,Ingrid Tafe,2020-07-20T15:00:00.000,Bronx,Park,Williamsbridge Oval Park,Youth meets,Community Based Event,Arts/Culture,20.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Carl Antoine,2020-07-14T15:30:00.000,Bronx,Park,Williamsbridge Oval Park,Street hockey,Community Based Event,Sport,1.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T10:30:00.000,Brooklyn,Park,Saratoga Park,Photo Scavenger Hunt: Leaves and Seeds,Community Based Event,Nature,14.0,General Public,Sharepoint,Summer 2020
+Recreation,Oscar Chavez,2020-07-16T15:30:00.000,Bronx,Park,Williamsbridge Oval Park,Sport Drills,Community Based Event,Sport,1.0,Children;#Young Adult,Sharepoint,Summer 2020
+Recreation,,2020-07-15T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Circuit Training,Community Based Event,Fitness,7.0,Seniors;#Adults,Sharepoint,Summer 2020
+Recreation,Quiana Haynes,2020-07-15T15:30:00.000,Bronx,Park,Williamsbridge Oval Park,Fitness Challenge,Community Based Event,Fitness,12.0,Children,Sharepoint,Summer 2020
+Recreation,Tasha Valentino,2020-07-21T12:00:00.000,Bronx,Park,Soundview Park,Mindful Play,Agency Produced Event,Fitness,1.0,Children,Sharepoint,Summer 2020
+Recreation,Oscar Chaves,2020-07-14T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Pickle Ball,Community Based Event,Sport,6.0,Adults;#Seniors,Sharepoint,Summer 2020
+Recreation,Friends of Soundview Park,2020-07-17T10:00:00.000,Bronx,Park,Soundview Park,Photography and Art in Nature,Agency Produced Event,Arts/Culture,0.0,Children,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-21T00:00:00.000,Brooklyn,Park,McKinley Park,Rhythem & Weights,Local Event,Fitness,4.0,Children,Sharepoint,Summer 2020
+Recreation,Tasha Valentino,2020-07-14T12:00:00.000,Bronx,Park,Soundview Park,Mindful Play,Agency Produced Event,Fitness,0.0,Children,Sharepoint,Summer 2020
+Recreation,Ivan Velez,2020-07-20T11:00:00.000,Bronx,Park,Poe Park,Comic culture,Local Event,Arts/Culture,1.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,,2018-07-18T20:30:00.000,Queens,Park,Flushing Meadows Corona Park,"MUTS ""Wonder Woman""",Community Based Event,Mobile Unit,372.0,General Public,Sharepoint,Movies
+Recreation,Shanel Burgess,2020-07-21T11:00:00.000,Bronx,Park,Poe Park,Arts in the Park; Paper scroll Wreath,Local Event,Arts/Culture,8.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,St James,2020-07-21T13:00:00.000,Bronx,Park,St. James Park,Creative Arts,Community Based Event,Arts/Culture,4.0,Children,Sharepoint,Play
+Recreation,Deirdra Lacy,2020-07-21T10:00:00.000,Brooklyn,Park,St. John's Park,Summer 2020 Outdoor Program,Local Event,Fitness,10.0,Adults;#Seniors;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T11:20:00.000,Bronx,Park,Tremont Park,Roaming Walking Stick Meet & Greet,Agency Produced Event,Nature,13.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T11:00:00.000,Bronx,Park,Tremont Park,Roaming Walking Stick Meet & Greet,Agency Produced Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Recreation,Shanel Burgess,2020-07-21T14:00:00.000,Bronx,Park,Poe Park,Art in the Park: Paper Scroll Wreath,Local Event,Arts/Culture,4.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,,2020-07-17T10:30:00.000,Bronx,Park,Claremont Park,Soccer Skills,Agency Produced Event,Sport,0.0,Children;#Young Adult;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T10:15:00.000,Bronx,Park,Crotona Park,Roaming Walking Stick Meet & Greet,Agency Produced Event,Nature,6.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-08-25T10:00:00.000,Manhattan,Park,West 4th Park,Greenwich Handball Tournament,Tournament/Competition,Sport,18.0,Young Adult;#Adults;#Teens,Sharepoint,Tier 3
+Urban Park Rangers,General Public,2020-07-21T14:50:00.000,Bronx,Park,Mullaly Park,Roaming Walking Stick Meet & Greet,Agency Produced Event,Nature,10.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T14:30:00.000,Bronx,Park,Mullaly Park,Roaming Walking Stick Meet & Greet,Agency Produced Event,Nature,15.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-21T10:30:00.000,Bronx,Park,Claremont Park,Basketball Skills / Obstacle Course,Agency Produced Event,Sport,3.0,Children;#Young Adult;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T15:45:00.000,Staten Island,Park,Clove Lakes Park,Photo Scavenger Hunt,Community Based Event,Nature,17.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T14:45:00.000,Queens,Park,Astoria Park,Hawk Adventures,Community Based Event,Nature,6.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T15:00:00.000,Brooklyn,Park,Maria Hernandez Park,Nature Art,Community Based Event,Nature,10.0,Children;#Tot,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-21T14:00:00.000,Brooklyn,Park,McKinley Park,Soccer Skills,Local Event,Fitness,5.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T15:20:00.000,Staten Island,Park,Clove Lakes Park,Roaming bio facts,Community Based Event,Nature,26.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-21T15:00:00.000,Manhattan,Park,Inwood Hill Park,Garden Gala,Community Based Event,Nature,3.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-21T14:30:00.000,Bronx,Park,Haffen Park,Soccer Skills / Obstacle Course,Agency Produced Event,Sport,0.0,Children;#Young Adult;#Teens,Sharepoint,Summer 2020
+Recreation,Leo Saito,2020-07-21T10:30:00.000,Manhattan,Park,Marcus Garvey Park,KIM Outdoor Programming,Community Based Event,Sport,4.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Creative Arts,2020-07-22T09:10:00.000,Bronx,Park,St. James Park,Creative Arts,Community Based Event,Arts/Culture,1.0,Children,Sharepoint,Play
+Recreation,Guy Ruffin & Daniel Colonna,2020-07-21T10:30:00.000,Manhattan,Park,Thomas Jefferson Park,SSE Outdoor Programming,Community Based Event,Sport,2.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,,2018-07-18T20:30:00.000,Bronx,Park,Poe Park,Movies Under The Stars: Wonder Woman,Community Based Event,Mobile Unit,90.0,General Public,Sharepoint,Movies
+Recreation,Giovanni Feliciano,2020-07-21T10:30:00.000,Manhattan,Park,Highbridge Park,KIM Outdoor Programming,Community Based Event,Sport,5.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Ricardo Sanchez,2020-07-21T10:30:00.000,Manhattan,Park,Columbus Park,KIM Outdoor Programming,Community Based Event,Sport,0.0,Tot;#Children;#Teens,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-22T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick  Up Pickle Ball,Local Event,Fitness,23.0,Seniors,Sharepoint,Summer 2020
+Recreation,,2020-07-17T11:30:00.000,Bronx,Park,Parks@Home,Kid's Literary Cove Chapter Reading The Phantom Tollbooth,Agency Produced Event,Arts/Culture,0.0,Children,Sharepoint,Summer 2020
+Recreation,Oscar  Chavez,2020-07-21T00:00:00.000,Bronx,Park,Williamsbridge Oval Park,Pickle Ball,Community Based Event,Sport,7.0,Children;#Young Adult,Sharepoint,Summer 2020
+Recreation,,2020-07-22T10:00:00.000,Bronx,Park,Williamsbridge Oval Park,Circuit Training,Community Based Event,Fitness,7.0,Seniors;#Adults,Sharepoint,Summer 2020
+Recreation,Deirdra Lacy,2020-07-22T10:00:00.000,Brooklyn,Park,St. John's Park,Summer 2020 Outdoor Program,Agency Produced Event,Fitness,2.0,Adults;#Seniors;#General Public,Sharepoint,Summer 2020
+Recreation,Councilman Cohen,2018-07-18T20:30:00.000,Bronx,Park,Seton Park,Movies Under The Stars: ET The Extra Terrestrial,Community Based Event,Mobile Unit,70.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-22T14:45:00.000,Brooklyn,Park,Betsy Head Park,Chalk Art,Community Based Event,Nature,11.0,Children;#General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-22T11:00:00.000,Brooklyn,Park,Highland Park,Nature Chalk Art,Community Based Event,Nature,15.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-25T14:45:00.000,Manhattan,Park,Marcus Garvey Park,Did you see the size of that stag (beetle)?,Community Based Event,Nature,4.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-22T11:30:00.000,Brooklyn,Park,Highland Park,Animal Chalk Draw,Community Based Event,Nature,6.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-22T10:27:00.000,Staten Island,Park,The Big Park,Roaming Bio Facts,Community Based Event,Nature,10.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-22T14:00:00.000,Manhattan,Park,Marcus Garvey Park,What happened to that deer?,Community Based Event,Nature,1.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T11:00:00.000,Brooklyn,Park,Herbert Von King Park,Nature Chalk Art,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-14T11:00:00.000,Queens,Park,Queensbridge Park,Kids in Motion,Community Based Event,KIM,7.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-22T15:11:00.000,Queens,Park,Captain Tilly Park,Nature Art,Community Based Event,Nature,3.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-18T10:30:00.000,Brooklyn,Park,Herbert Von King Park,Nature Chalk Art,Community Based Event,Nature,13.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-22T14:45:00.000,Queens,Park,Captain Tilly Park,Wildlife in 4 Languages!,Community Based Event,Nature,6.0,General Public,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-22T14:00:00.000,Brooklyn,Park,McKinley Park,TABATA Training,Local Event,Fitness,3.0,Adults,Sharepoint,Summer 2020
+Urban Park Rangers,General public,2020-07-18T14:30:00.000,Brooklyn,Park,Irving Square Park,Nature Chalk Art,Community Based Event,Nature,14.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-16T11:00:00.000,Queens,Park,Queensbridge Park,Kids in Motion,Community Based Event,KIM,10.0,Tot;#Children;#General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-18T20:00:00.000,Brooklyn,Park,Carroll Park,Movies Under the Stars : Mary Poppin,Community Based Event,Mobile Unit,200.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-22T15:00:00.000,Brooklyn,Park,Irving Square Park,Nature Chalk Art,Community Based Event,Nature,10.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General public,2020-07-22T10:15:00.000,Brooklyn,Park,Herbert Von King Park,Nature Chalk Art,Community Based Event,Nature,9.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-22T14:30:00.000,Bronx,Park,St. Mary's Park,Animal Olympics,Agency Produced Event,Nature,18.0,Children,Sharepoint,Summer 2020
+Recreation,,2018-07-19T20:00:00.000,Brooklyn,Park,Cooper Park,Movies Under the Stars : Justice League,Community Based Event,Mobile Unit,325.0,General Public,Sharepoint,Movies
+Recreation,Ocean Breeze Recreation Staff,2020-07-22T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Wake-Up Stretch and Relax Yoga,Open House,Fitness,7.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-22T09:45:00.000,Staten Island,Park,Ocean Breeze Park,Bend & Flex,Open House,Fitness,6.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-23T12:30:00.000,Staten Island,Park,Blue Heron Park,Insect Exploration,Community Based Event,Nature,2.0,General Public,Sharepoint,Summer 2020
+Recreation,Deirdra Lacy,2020-07-23T10:00:00.000,Brooklyn,Park,St. John's Park,2020 Summer Outdoor Program,Agency Produced Event,Fitness,2.0,Adults;#Seniors;#General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-22T14:00:00.000,Staten Island,Park,Ocean Breeze Park,Side Walk Games,Open House,Family Festival,0.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation Staff,2020-07-22T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Soccer Skills,Open House,Sport,2.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-07-19T20:30:00.000,Queens,Park,Montbellier Park,"MUTS ""Despicable Me 3""",Community Based Event,Mobile Unit,57.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-23T14:00:00.000,Queens,Park,Elmhurst Park,Nature Signs of the Times,Community Based Event,Nature,15.0,General Public,Sharepoint,Summer 2020
+Recreation,,2018-09-09T20:30:00.000,Queens,Park,Elmhurst,Movies Under the Stars,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Movies
+Recreation,Ocean Breeze Recreation Staff,2020-07-23T12:00:00.000,Staten Island,Park,Ocean Breeze Park,Ocean Breeze Summer Sports Sizzler - Plyometrics,Open House,Fitness,4.0,General Public,Sharepoint,Summer 2020
+Recreation,Ocean Breeze Recreation,2020-07-24T08:30:00.000,Staten Island,Park,Ocean Breeze Park,Fit to the Core,Open House,Fitness,8.0,General Public,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-23T10:00:00.000,Brooklyn,Park,McKinley Park,Rhythm & Weights,Local Event,Fitness,2.0,Children,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-23T14:00:00.000,Brooklyn,Park,McKinley Park,Soccer Skills,Local Event,Fitness,2.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-23T14:00:00.000,Manhattan,Park,Inwood Hill Park,Salt Marsh Ecology,Community Based Event,Nature,10.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-23T14:00:00.000,Bronx,Park,Barretto Point Park,Basketball Skills / Obstacle Course,Agency Produced Event,Sport,0.0,Children;#Young Adult;#Teens,Sharepoint,Summer 2020
+Recreation,,2018-07-21T20:30:00.000,Bronx,Park,Crotona Park,Movies Under The Stars: Jumanji: Welcome To The Jungle,Community Based Event,Mobile Unit,0.0,General Public,Sharepoint,Movies
+Urban Park Rangers,General Public,2020-07-23T02:40:00.000,Bronx,Park,Crotona Park,Animal Olympics,Agency Produced Event,Nature,0.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-23T14:30:00.000,Manhattan,Park,Inwood Hill Park,Oyster Cage Viewing,Community Based Event,Nature,15.0,General Public,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-23T14:00:00.000,Bronx,Park,Barretto Point Park,Animal Olympics,Agency Produced Event,Nature,0.0,Children,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-24T10:00:00.000,Staten Island,Park,Clove Lakes Park,Stream Ecology,Community Based Event,Nature,1.0,General Public,Sharepoint,Summer 2020
+Recreation,Carol Landes,2020-07-23T08:00:00.000,Staten Island,Park,Freshkills Park,Stronger Than Ever - Trail Walk,Open House,Fitness,2.0,Seniors,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-23T15:30:00.000,Manhattan,Park,Hancock Park,I'm a Park Ranger,Community Based Event,Nature,2.0,General Public,Sharepoint,Summer 2020
+Recreation,,2020-07-23T10:30:00.000,Bronx,Park,Ferry Point Park,Soccer Skills / Obstacle Course,Agency Produced Event,Sport,0.0,Children;#Young Adult;#Teens,Sharepoint,Summer 2020
+Recreation,Jonathan Adone,2020-07-24T10:00:00.000,Brooklyn,Park,Leif Ericson Park,Pick Up Pickel Ball,Local Event,Fitness,6.0,Seniors,Sharepoint,
+Recreation,Art Students League,2020-07-23T10:30:00.000,Manhattan,Park,J. Hood Wright Park,Arts Culture & Fun,Local Event,Arts/Culture,6.0,General Public,Sharepoint,AC&F
+Recreation,FOSP,2020-07-24T10:00:00.000,Bronx,Park,Soundview Park,Kid's Photography and Art in Nature,Agency Produced Event,Arts/Culture,0.0,Children,Sharepoint,Summer 2020
+Recreation,,2020-07-24T10:30:00.000,Bronx,Park,Ferry Point Park,Soccer Skills,Agency Produced Event,Sport,0.0,Children;#Young Adult;#Teens,Sharepoint,Summer 2020
+Urban Park Rangers,General Public,2020-07-24T15:00:00.000,Queens,Park,Rockaway Beach and Boardwalk,Aquatic Animal Anatomy,Community Based Event,Nature,12.0,General Public,Sharepoint,Summer 2020
