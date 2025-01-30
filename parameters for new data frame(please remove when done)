@@ -1,0 +1,11 @@
+parameters we need 
+        "group_name_partner": "Jonathan Adone",
+        "date_and_time": "2020-07-23T14:00:00.000",
+        "borough": "Brooklyn",
+        "locationtype": "Park",
+        "location": "McKinley Park",
+        "event_type": "Local Event",
+        "category": "Fitness",
+        "classification": "Summer 2020",
+        "attendance": "2.0",
+        "audience": "Children",
