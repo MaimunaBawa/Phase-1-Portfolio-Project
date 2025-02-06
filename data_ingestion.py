@@ -62,10 +62,9 @@ csv_path = os.path.join(data_folder_csv, 'nyc_all_parks_special_event.csv')
 # Save the DataFrame to a CSV file in the 'data/csv' folder
 df.to_csv(csv_path, index=False)
 
-### dropping unwanted columns 
+### dropping unwanted columns for filtered json to make a filtered CSV
 to_drop = ["event_name","source","group_name_partner","unit","locationtype"]
 df = df.drop(to_drop, axis=1)
-
 
 
 #Converting our time 
@@ -81,6 +80,8 @@ df = df.drop("date_and_time" ,  axis = 1)
 df = df.sort_values(by= 'date')
 df = df.set_index('date')
 
+
+#Coverting the Filtered json into a csv 
 data_folder_csv = 'csv'
 os.makedirs(data_folder_csv, exist_ok=True)  # Ensure the folder exists
 csv_path = os.path.join(data_folder_csv, 'nyc_all_parks_filtered.csv')
@@ -88,7 +89,7 @@ csv_path = os.path.join(data_folder_csv, 'nyc_all_parks_filtered.csv')
 # Save the DataFrame to a CSV file in the 'data/csv' folder
 df.to_csv(csv_path, index= True)
 
-print(df.head(14))
 
 
-#df = df.groupby('audience').filter(lambda x: len(x) > 123)
+
+
